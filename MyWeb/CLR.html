@@ -1,0 +1,164 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+
+    <link rel="shortcut icon" href="favicon.ico" />
+    <link href="scripts/style.min.css" rel="stylesheet" />
+    <link href="scripts/docs.min.css" rel="stylesheet" />
+    <!-- Bootstrap 3.3.6 -->
+    <link rel="stylesheet" href="scripts/bootstrap/css/bootstrap.min.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="scripts/dist/css/font-awesome.min.css">
+    <link rel="stylesheet" href="scripts/plugins/daterangepicker/daterangepicker-bs3.css">
+    <link rel="stylesheet" href="scripts/plugins/datatables/dataTables.bootstrap.css">
+
+    <!-- Theme style -->
+    <link rel="stylesheet" href="scripts/dist/css/AdminLTE.min.css">
+    <!-- AdminLTE Skins. We have chosen the skin-blue for this starter
+          page. However, you can choose any other skin. Make sure you
+          apply the skin class to the body tag so the changes take effect.
+    -->
+    <link rel="stylesheet" href="scripts/dist/css/skins/skin-blue.min.css">
+    <!-- jQuery 2.2.0 -->
+    <script src="scripts/plugins/jQuery/jQuery-2.2.0.min.js"></script>
+    <script src="scripts/plugins/js-cookie/js.cookie.js"></script>
+
+    <!-- REQUIRED JS SCRIPTS -->
+
+    <script src="scripts/plugins/select2/select2.full.min.js"></script>
+    <!-- Bootstrap 3.3.6 -->
+    <script src="scripts/bootstrap/js/bootstrap.min.js"></script>
+    <!-- AdminLTE App -->
+    <script src="scripts/dist/js/app.js"></script>
+    <script src="scripts/plugins/moment/moment.min.js"></script>
+    <script src="scripts/plugins/daterangepicker/daterangepicker.js"></script>
+
+    <style>
+        .nav {
+            font-size: 20px;
+        }
+
+        .description {
+            padding: 20px;
+            font-size: 24px;
+            text-align: left;
+            color: white;
+            background-color: #6f5499;
+        }
+
+
+        .box {
+            padding: 20px;
+        }
+    </style>
+    <script>
+        $(function () {
+            $("#js_main_header").load('head.html');
+            //设置导航选中选项
+            $(".nav").find("li").on("click", function () {
+                $(".nav").find("li").each(function () {
+                    $(this).removeClass("active");
+                });
+                $(this).addClass("active");
+            })
+        });
+    </script>
+</head>
+<body>
+    <!-- Docs master nav -->
+    <div id="js_main_header">
+    </div>
+    <!-- Docs page layout -->
+    <div class="description">
+        <h2>Common Language Runtime (CLR)</h2>
+        <p>
+            The .NET Framework provides a run-time environment called the common language runtime, which runs the code and provides services that make the development process easier.
+            Compilers and tools expose the common language runtime's functionality and enable you to write code that benefits from this managed execution environment. Code that you develop with a language compiler that targets the runtime is called managed code; it benefits from features such as cross-language integration, cross-language exception handling, enhanced security, versioning and deployment support, a simplified model for component interaction, and debugging and profiling services.
+        </p>
+    </div>
+    <hr />
+    <!--Content-->
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="box box-default">
+                <div class="box-header with-border">
+                    <h3 class="box-title">Common Language Runtime (CLR) - MSND</h3>
+
+                    <div class="box-tools pull-right">
+                        <button type="button" class="btn btn-box-tool" data-widget="collapse">
+                            <i class="fa fa-minus"></i>
+                        </button>
+                    </div>
+                    <!-- /.box-tools -->
+                </div>
+                <!-- /.box-header -->
+                <div class="box-body" style="display: block;">
+                    <article id="post-6105" class="post-6105 post type-post status-publish format-standard hentry category-uncategorized tag-net tag-community tag-week-in-net">
+
+                        <header class="entry-header"></header>
+
+                        <div class="entry-summary">
+                            <p>
+
+                                <a href="https://msdn.microsoft.com/en-us/library/8bs2ecf4(v=vs.110).aspx" class="read-more">
+                                    Read more
+                                </a>
+                            </p>
+                        </div>
+
+                    </article>
+                </div>
+                <!-- /.box-body -->
+            </div>
+            <!-- /.box -->
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="box box-default">
+                <div class="box-header with-border">
+                    <h3 class="box-title">How to: Create Your Own Test Certificate</h3>
+
+                    <div class="box-tools pull-right">
+                        <button type="button" class="btn btn-box-tool" data-widget="collapse">
+                            <i class="fa fa-minus"></i>
+                        </button>
+                    </div>
+                    <!-- /.box-tools -->
+                </div>
+                <!-- /.box-header -->
+                <div class="box-body" style="display: block;">
+                    <article id="post-6105" class="post-6105 post type-post status-publish format-standard hentry category-uncategorized tag-net tag-community tag-week-in-net">
+
+                        <header class="entry-header"></header>
+
+                        <div class="entry-summary">
+                            <p>
+                                Although signing a deployment was made optional in the .NET Framework 3.5 SP1, it is still a best practice for security reasons. To sign your deployment, you must have a code-signing certificate. You can either create your own test certificate or obtain a certificate from a root certificate authority (CA)—typically, a vendor or your server support team. When you have a certificate from a CA, it displays the publisher in the installation dialogs, which makes your application appear more trustworthy. If you use a test (self-created) certificate, the installation dialogs will display an "Unknown publisher" message. For applications deployed internally in an organization, this is an acceptable practice.
+                                <a href="https://msdn.microsoft.com/en-us/library/ff699202.aspx" class="read-more">
+                                    Read more
+                                </a>
+                            </p>
+                        </div>
+
+                    </article>
+                </div>
+                <!-- /.box-body -->
+            </div>
+            <!-- /.box -->
+        </div>
+    </div>
+    <!-- Footer
+    ================================================== -->
+    <!--<footer class="bs-docs-footer" role="contentinfo">
+        <div class="container">
+        </div>
+    </footer>-->
+</body>
+</html>

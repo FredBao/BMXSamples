@@ -1,0 +1,16 @@
+D:\研究\Sample-FrameworkDesign\DistributeExtensionPatternDemo\DistributeExtensionPatternDemo\bin\Debug\DistributeExtensionPatternDemo.exe.config
+D:\研究\Sample-FrameworkDesign\DistributeExtensionPatternDemo\DistributeExtensionPatternDemo\bin\Debug\DistributeExtensionPatternDemo.exe
+D:\研究\Sample-FrameworkDesign\DistributeExtensionPatternDemo\DistributeExtensionPatternDemo\bin\Debug\DistributeExtensionPatternDemo.pdb
+D:\研究\Sample-FrameworkDesign\DistributeExtensionPatternDemo\DistributeExtensionPatternDemo\obj\Debug\DistributeExtensionPatternDemo.csprojResolveAssemblyReference.cache
+D:\研究\Sample-FrameworkDesign\DistributeExtensionPatternDemo\DistributeExtensionPatternDemo\obj\Debug\DistributeExtensionPatternDemo.exe
+D:\研究\Sample-FrameworkDesign\DistributeExtensionPatternDemo\DistributeExtensionPatternDemo\obj\Debug\DistributeExtensionPatternDemo.pdb
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\DistributeExtensionPatternDemo\bin\Debug\DistributeExtensionPatternDemo.exe.config
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\DistributeExtensionPatternDemo\bin\Debug\DistributeExtensionPatternDemo.exe
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\DistributeExtensionPatternDemo\bin\Debug\DistributeExtensionPatternDemo.pdb
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\DistributeExtensionPatternDemo\obj\Debug\DistributeExtensionPatternDemo.exe
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\DistributeExtensionPatternDemo\obj\Debug\DistributeExtensionPatternDemo.pdb
+D:\Learn\BMXSamples\DistributeExtensionPatternDemo\bin\Debug\DistributeExtensionPatternDemo.exe.config
+D:\Learn\BMXSamples\DistributeExtensionPatternDemo\bin\Debug\DistributeExtensionPatternDemo.exe
+D:\Learn\BMXSamples\DistributeExtensionPatternDemo\bin\Debug\DistributeExtensionPatternDemo.pdb
+D:\Learn\BMXSamples\DistributeExtensionPatternDemo\obj\Debug\DistributeExtensionPatternDemo.exe
+D:\Learn\BMXSamples\DistributeExtensionPatternDemo\obj\Debug\DistributeExtensionPatternDemo.pdb

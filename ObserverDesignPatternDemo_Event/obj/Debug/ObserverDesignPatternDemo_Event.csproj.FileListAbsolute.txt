@@ -1,0 +1,6 @@
+D:\学习\BMXSamples\ObserverDesignPatternDemo_Event\bin\Debug\ObserverDesignPatternDemo_Event.exe.config
+D:\学习\BMXSamples\ObserverDesignPatternDemo_Event\bin\Debug\ObserverDesignPatternDemo_Event.exe
+D:\学习\BMXSamples\ObserverDesignPatternDemo_Event\bin\Debug\ObserverDesignPatternDemo_Event.pdb
+D:\学习\BMXSamples\ObserverDesignPatternDemo_Event\obj\Debug\ObserverDesignPatternDemo_Event.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\ObserverDesignPatternDemo_Event\obj\Debug\ObserverDesignPatternDemo_Event.exe
+D:\学习\BMXSamples\ObserverDesignPatternDemo_Event\obj\Debug\ObserverDesignPatternDemo_Event.pdb

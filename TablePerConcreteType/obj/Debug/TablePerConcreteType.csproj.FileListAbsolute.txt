@@ -1,0 +1,12 @@
+D:\Learn\BMXSamples\TablePerConcreteType\bin\Debug\TablePerConcreteType.exe.config
+D:\Learn\BMXSamples\TablePerConcreteType\bin\Debug\TablePerConcreteType.exe
+D:\Learn\BMXSamples\TablePerConcreteType\bin\Debug\TablePerConcreteType.pdb
+D:\Learn\BMXSamples\TablePerConcreteType\bin\Debug\EntityFramework.dll
+D:\Learn\BMXSamples\TablePerConcreteType\bin\Debug\EntityFramework.SqlServer.dll
+D:\Learn\BMXSamples\TablePerConcreteType\bin\Debug\EntityFramework.xml
+D:\Learn\BMXSamples\TablePerConcreteType\bin\Debug\EntityFramework.SqlServer.xml
+D:\Learn\BMXSamples\TablePerConcreteType\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\Learn\BMXSamples\TablePerConcreteType\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\Learn\BMXSamples\TablePerConcreteType\obj\Debug\TablePerConcreteType.csprojResolveAssemblyReference.cache
+D:\Learn\BMXSamples\TablePerConcreteType\obj\Debug\TablePerConcreteType.exe
+D:\Learn\BMXSamples\TablePerConcreteType\obj\Debug\TablePerConcreteType.pdb

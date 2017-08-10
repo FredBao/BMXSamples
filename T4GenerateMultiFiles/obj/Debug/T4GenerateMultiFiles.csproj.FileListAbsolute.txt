@@ -1,0 +1,16 @@
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\T4GenerateMultiFiles\bin\Debug\T4GenerateMultiFiles.exe
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\T4GenerateMultiFiles\bin\Debug\T4GenerateMultiFiles.pdb
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\T4GenerateMultiFiles\bin\Debug\Microsoft.VisualStudio.TextTemplating.10.0.dll
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\T4GenerateMultiFiles\bin\Debug\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\T4GenerateMultiFiles\obj\Debug\T4GenerateMultiFiles.csprojResolveAssemblyReference.cache
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\T4GenerateMultiFiles\obj\Debug\T4GenerateMultiFiles.exe
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\T4GenerateMultiFiles\obj\Debug\T4GenerateMultiFiles.pdb
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\T4GenerateMultiFiles\bin\Debug\T4GenerateMultiFiles.exe.config
+D:\Learn\BMXSamples\T4GenerateMultiFiles\bin\Debug\T4GenerateMultiFiles.exe.config
+D:\Learn\BMXSamples\T4GenerateMultiFiles\bin\Debug\T4GenerateMultiFiles.exe
+D:\Learn\BMXSamples\T4GenerateMultiFiles\bin\Debug\T4GenerateMultiFiles.pdb
+D:\Learn\BMXSamples\T4GenerateMultiFiles\bin\Debug\Microsoft.VisualStudio.TextTemplating.10.0.dll
+D:\Learn\BMXSamples\T4GenerateMultiFiles\bin\Debug\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+D:\Learn\BMXSamples\T4GenerateMultiFiles\obj\Debug\T4GenerateMultiFiles.csprojResolveAssemblyReference.cache
+D:\Learn\BMXSamples\T4GenerateMultiFiles\obj\Debug\T4GenerateMultiFiles.exe
+D:\Learn\BMXSamples\T4GenerateMultiFiles\obj\Debug\T4GenerateMultiFiles.pdb

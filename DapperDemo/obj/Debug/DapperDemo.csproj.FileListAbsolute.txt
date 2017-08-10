@@ -1,0 +1,14 @@
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\DapperDemo\bin\Debug\DapperDemo.exe
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\DapperDemo\bin\Debug\DapperDemo.pdb
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\DapperDemo\bin\Debug\Dapper.dll
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\DapperDemo\bin\Debug\Dapper.xml
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\DapperDemo\obj\Debug\DapperDemo.csprojResolveAssemblyReference.cache
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\DapperDemo\obj\Debug\DapperDemo.exe
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\DapperDemo\obj\Debug\DapperDemo.pdb
+D:\Learn\BMXSamples\DapperDemo\bin\Debug\DapperDemo.exe
+D:\Learn\BMXSamples\DapperDemo\bin\Debug\DapperDemo.pdb
+D:\Learn\BMXSamples\DapperDemo\bin\Debug\Dapper.dll
+D:\Learn\BMXSamples\DapperDemo\bin\Debug\Dapper.xml
+D:\Learn\BMXSamples\DapperDemo\obj\Debug\DapperDemo.csprojResolveAssemblyReference.cache
+D:\Learn\BMXSamples\DapperDemo\obj\Debug\DapperDemo.exe
+D:\Learn\BMXSamples\DapperDemo\obj\Debug\DapperDemo.pdb

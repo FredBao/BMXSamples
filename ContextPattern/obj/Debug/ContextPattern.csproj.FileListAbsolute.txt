@@ -1,0 +1,11 @@
+D:\研究\Sample-FrameworkDesign\ContextPattern\ContextPattern\bin\Debug\ContextPattern.exe.config
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\ContextPattern\bin\Debug\ContextPattern.exe.config
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\ContextPattern\bin\Debug\ContextPattern.exe
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\ContextPattern\bin\Debug\ContextPattern.pdb
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\ContextPattern\obj\Debug\ContextPattern.exe
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\ContextPattern\obj\Debug\ContextPattern.pdb
+D:\Learn\BMXSamples\ContextPattern\bin\Debug\ContextPattern.exe.config
+D:\Learn\BMXSamples\ContextPattern\bin\Debug\ContextPattern.exe
+D:\Learn\BMXSamples\ContextPattern\bin\Debug\ContextPattern.pdb
+D:\Learn\BMXSamples\ContextPattern\obj\Debug\ContextPattern.exe
+D:\Learn\BMXSamples\ContextPattern\obj\Debug\ContextPattern.pdb

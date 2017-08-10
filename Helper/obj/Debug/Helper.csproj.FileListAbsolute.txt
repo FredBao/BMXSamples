@@ -1,0 +1,10 @@
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\Helper\bin\Debug\Helper.dll
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\Helper\bin\Debug\Helper.pdb
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\Helper\obj\Debug\Helper.dll
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\Helper\obj\Debug\Helper.pdb
+D:\Learn\BMXSamples\Helper\bin\Debug\Helper.dll
+D:\Learn\BMXSamples\Helper\bin\Debug\Helper.pdb
+D:\Learn\BMXSamples\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+D:\Learn\BMXSamples\Helper\obj\Debug\Helper.dll
+D:\Learn\BMXSamples\Helper\obj\Debug\Helper.pdb

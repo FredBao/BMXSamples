@@ -1,0 +1,6 @@
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\FileLogger\bin\Release\FileLogger.exe
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\FileLogger\bin\Release\FileLogger.pdb
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\FileLogger\bin\Release\log4net.dll
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\FileLogger\bin\Release\log4net.xml
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\FileLogger\obj\Release\FileLogger.exe
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\FileLogger\obj\Release\FileLogger.pdb

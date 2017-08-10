@@ -1,0 +1,11 @@
+D:\研究\Sample-FrameworkDesign\FluentProgramPattern\FluentProgramPattern\bin\Debug\FluentProgramPattern.exe.config
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\FluentProgramPattern\bin\Debug\FluentProgramPattern.exe.config
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\FluentProgramPattern\bin\Debug\FluentProgramPattern.exe
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\FluentProgramPattern\bin\Debug\FluentProgramPattern.pdb
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\FluentProgramPattern\obj\Debug\FluentProgramPattern.exe
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\FluentProgramPattern\obj\Debug\FluentProgramPattern.pdb
+D:\Learn\BMXSamples\FluentProgramPattern\bin\Debug\FluentProgramPattern.exe.config
+D:\Learn\BMXSamples\FluentProgramPattern\bin\Debug\FluentProgramPattern.exe
+D:\Learn\BMXSamples\FluentProgramPattern\bin\Debug\FluentProgramPattern.pdb
+D:\Learn\BMXSamples\FluentProgramPattern\obj\Debug\FluentProgramPattern.exe
+D:\Learn\BMXSamples\FluentProgramPattern\obj\Debug\FluentProgramPattern.pdb

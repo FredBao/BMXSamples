@@ -1,0 +1,16 @@
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\T4Demo\bin\Debug\T4Demo.exe.config
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\T4Demo\bin\Debug\T4Demo.exe
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\T4Demo\bin\Debug\T4Demo.pdb
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\T4Demo\bin\Debug\Microsoft.VisualStudio.TextTemplating.10.0.dll
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\T4Demo\bin\Debug\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\T4Demo\obj\Debug\T4Demo.csprojResolveAssemblyReference.cache
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\T4Demo\obj\Debug\T4Demo.exe
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\T4Demo\obj\Debug\T4Demo.pdb
+D:\Learn\BMXSamples\T4Demo\bin\Debug\T4Demo.exe.config
+D:\Learn\BMXSamples\T4Demo\bin\Debug\T4Demo.exe
+D:\Learn\BMXSamples\T4Demo\bin\Debug\T4Demo.pdb
+D:\Learn\BMXSamples\T4Demo\bin\Debug\Microsoft.VisualStudio.TextTemplating.10.0.dll
+D:\Learn\BMXSamples\T4Demo\bin\Debug\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+D:\Learn\BMXSamples\T4Demo\obj\Debug\T4Demo.csprojResolveAssemblyReference.cache
+D:\Learn\BMXSamples\T4Demo\obj\Debug\T4Demo.exe
+D:\Learn\BMXSamples\T4Demo\obj\Debug\T4Demo.pdb

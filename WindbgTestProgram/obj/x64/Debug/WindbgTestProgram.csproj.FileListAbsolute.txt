@@ -1,0 +1,5 @@
+D:\Learn\BMXSamples\WindbgTestProgram\bin\x64\Debug\WindbgTestProgram.exe.config
+D:\Learn\BMXSamples\WindbgTestProgram\bin\x64\Debug\WindbgTestProgram.exe
+D:\Learn\BMXSamples\WindbgTestProgram\bin\x64\Debug\WindbgTestProgram.pdb
+D:\Learn\BMXSamples\WindbgTestProgram\obj\x64\Debug\WindbgTestProgram.exe
+D:\Learn\BMXSamples\WindbgTestProgram\obj\x64\Debug\WindbgTestProgram.pdb

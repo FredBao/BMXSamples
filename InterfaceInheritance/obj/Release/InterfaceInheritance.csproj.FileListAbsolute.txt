@@ -1,0 +1,4 @@
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\InterfaceInheritance\bin\Release\InterfaceInheritance.exe
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\InterfaceInheritance\bin\Release\InterfaceInheritance.pdb
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\InterfaceInheritance\obj\Release\InterfaceInheritance.exe
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\InterfaceInheritance\obj\Release\InterfaceInheritance.pdb

@@ -1,0 +1,16 @@
+D:\研究\Sample-FrameworkDesign\ProgramProvidePatternDemo\PipelinePatternDemo\PipelinePatternDemo\bin\Debug\PipelinePatternDemo.exe.config
+D:\研究\Sample-FrameworkDesign\ProgramProvidePatternDemo\PipelinePatternDemo\PipelinePatternDemo\bin\Debug\PipelinePatternDemo.exe
+D:\研究\Sample-FrameworkDesign\ProgramProvidePatternDemo\PipelinePatternDemo\PipelinePatternDemo\bin\Debug\PipelinePatternDemo.pdb
+D:\研究\Sample-FrameworkDesign\ProgramProvidePatternDemo\PipelinePatternDemo\PipelinePatternDemo\obj\Debug\PipelinePatternDemo.csprojResolveAssemblyReference.cache
+D:\研究\Sample-FrameworkDesign\ProgramProvidePatternDemo\PipelinePatternDemo\PipelinePatternDemo\obj\Debug\PipelinePatternDemo.exe
+D:\研究\Sample-FrameworkDesign\ProgramProvidePatternDemo\PipelinePatternDemo\PipelinePatternDemo\obj\Debug\PipelinePatternDemo.pdb
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\PipelinePatternDemo\bin\Debug\PipelinePatternDemo.exe.config
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\PipelinePatternDemo\bin\Debug\PipelinePatternDemo.exe
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\PipelinePatternDemo\bin\Debug\PipelinePatternDemo.pdb
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\PipelinePatternDemo\obj\Debug\PipelinePatternDemo.exe
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\PipelinePatternDemo\obj\Debug\PipelinePatternDemo.pdb
+D:\Learn\BMXSamples\PipelinePatternDemo\bin\Debug\PipelinePatternDemo.exe.config
+D:\Learn\BMXSamples\PipelinePatternDemo\bin\Debug\PipelinePatternDemo.exe
+D:\Learn\BMXSamples\PipelinePatternDemo\bin\Debug\PipelinePatternDemo.pdb
+D:\Learn\BMXSamples\PipelinePatternDemo\obj\Debug\PipelinePatternDemo.exe
+D:\Learn\BMXSamples\PipelinePatternDemo\obj\Debug\PipelinePatternDemo.pdb

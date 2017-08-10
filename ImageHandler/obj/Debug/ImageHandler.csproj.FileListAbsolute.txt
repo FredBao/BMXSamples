@@ -1,0 +1,16 @@
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\ImageHandler\bin\Debug\ImageHandler.exe
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\ImageHandler\bin\Debug\ImageHandler.pdb
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\ImageHandler\obj\Debug\ImageHandler.ImageHandler.resources
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\ImageHandler\obj\Debug\ImageHandler.Properties.Resources.resources
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\ImageHandler\obj\Debug\ImageHandler.csproj.GenerateResource.Cache
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\ImageHandler\obj\Debug\ImageHandler.exe
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\ImageHandler\obj\Debug\ImageHandler.pdb
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\ImageHandler\obj\Debug\ImageHandler.csprojResolveAssemblyReference.cache
+D:\Learn\BMXSamples\ImageHandler\bin\Debug\ImageHandler.exe
+D:\Learn\BMXSamples\ImageHandler\bin\Debug\ImageHandler.pdb
+D:\Learn\BMXSamples\ImageHandler\obj\Debug\ImageHandler.csprojResolveAssemblyReference.cache
+D:\Learn\BMXSamples\ImageHandler\obj\Debug\ImageHandler.ImageHandler.resources
+D:\Learn\BMXSamples\ImageHandler\obj\Debug\ImageHandler.Properties.Resources.resources
+D:\Learn\BMXSamples\ImageHandler\obj\Debug\ImageHandler.csproj.GenerateResource.Cache
+D:\Learn\BMXSamples\ImageHandler\obj\Debug\ImageHandler.exe
+D:\Learn\BMXSamples\ImageHandler\obj\Debug\ImageHandler.pdb

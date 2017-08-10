@@ -1,0 +1,191 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>if-判断的基本用法</title>
+    <script src="../scripts/handlebars-v4.0.5.js"></script>
+    <script src="../scripts/jquery-1.12.3.js"></script>
+    <script src="../scripts/bootstrap.js"></script>
+    <link href="../scripts/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <h1>if-判断的基本用法</h1>
+    <div class="row col-sm-12" style="background-color:transparent;">
+        <!--代码-->
+        <div class="col-sm-8">
+            <h2>代码</h2>
+            <textarea class="col-sm-12" style="height:300px;" disabled>
+                <!--基础html框架-->
+                <table>
+                    <thead>
+                        <tr>
+                            <th class="col-sm-4">姓名</th>
+                            <th class="col-sm-4">性别</th>
+                            <th class="col-sm-4">年龄</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableList"></tbody>
+                </table>
+
+                <!--插件引用-->
+                <!--Handlebars.js模版-->
+                <!--Handlebars.js模版放在script标签中，保留了html原有层次结构,模版中要写一些操作语句-->
+                <!--id可以用来唯一确定一个模版,type是模版固定的写法-->
+                <script id="table-template" type="text/x-handlebars-template">
+                    {{#each student}}
+                    {{#if name}}
+                    {{#compare name '张三'}}
+                    <tr>
+                        <td class="col-sm-4">{{name}}</td>
+                        <td class="col-sm-4">{{transformat sex}}</td>
+                        <td class="col-sm-4">{{age}}</td>
+                    </tr>
+                    {{/compare}}
+                    {{/if}}
+                    {{/each}}
+                </script>
+
+                <!--进行数据处理、html构造-->
+                <script type="text/javascript">
+                    $(document).ready(function () {
+                        //模拟的json对象
+                        var data = {
+                            "student": [
+                                {
+                                    "name": "张三",
+                                    "sex": "0",
+                                    "age": 18
+                                },
+                                {
+                                    "sex": "0",
+                                    "age": 22
+                                },
+                                {
+                                    "name": "妞妞",
+                                    "sex": "1",
+                                    "age": 18
+                                }
+                            ]
+                        };
+
+                        //注册一个比较大小的Helper,判断v1是否大于v2
+                        Handlebars.registerHelper("compare", function (v1, v2, options) {
+                            if (v1 == v2) {
+                                //满足添加继续执行
+                                return options.fn(this);
+                            }
+                            else {
+                                //不满足条件执行{{else}}部分
+                                return options.inverse(this);
+                            }
+                        });
+                        //注册一个翻译用的Helper，0翻译成男，1翻译成女
+                        Handlebars.registerHelper("transformat", function (value) {
+                            if (value == 0) {
+                                return "男";
+                            } else if (value == 1) {
+                                return "女";
+                            }
+                        });
+                        //注册一个Handlebars模版，通过id找到某一个模版，获取模版的html框架
+                        //$("#table-template").html()是jquery的语法，不懂的童鞋请恶补。。。
+                        var myTemplate = Handlebars.compile($("#table-template").html());
+
+                        //将json对象用刚刚注册的Handlebars模版封装，得到最终的html，插入到基础table中。
+                        $('#tableList').html(myTemplate(data));
+                    });
+                </script>
+            </textarea>
+        </div>
+
+        <!--效果-->
+        <div class="col-sm-4">
+            <h2>效果</h2>
+            <!--基础html框架-->
+            <!--基础html框架-->
+            <table class="table-bordered">
+                <thead>
+                    <tr>
+                        <th class="col-sm-4">姓名</th>
+                        <th class="col-sm-4">性别</th>
+                        <th class="col-sm-4">年龄</th>
+                    </tr>
+                </thead>
+                <tbody id="tableList"></tbody>
+            </table>
+
+            <!--插件引用-->
+            <!--Handlebars.js模版-->
+            <!--Handlebars.js模版放在script标签中，保留了html原有层次结构,模版中要写一些操作语句-->
+            <!--id可以用来唯一确定一个模版,type是模版固定的写法-->
+            <script id="table-template" type="text/x-handlebars-template">
+                {{#each student}}
+                {{#if name}}
+                {{#compare name '张三'}}
+                <tr>
+                    <td class="col-sm-4">{{name}}</td>
+                    <td class="col-sm-4">{{transformat sex}}</td>
+                    <td class="col-sm-4">{{age}}</td>
+                </tr>
+                {{/compare}}
+                {{/if}}
+                {{/each}}
+            </script>
+
+            <!--进行数据处理、html构造-->
+            <script type="text/javascript">
+                $(document).ready(function () {
+                    //模拟的json对象
+                    var data = {
+                        "student": [
+                            {
+                                "name": "张三",
+                                "sex": "0",
+                                "age": 18
+                            },
+                            {
+                                "sex": "0",
+                                "age": 22
+                            },
+                            {
+                                "name": "妞妞",
+                                "sex": "1",
+                                "age": 18
+                            }
+                        ]
+                    };
+
+                    //注册一个比较大小的Helper,判断v1是否大于v2
+                    Handlebars.registerHelper("compare", function (v1, v2, options) {
+                        if (v1 == v2) {
+                            //满足添加继续执行
+                            return options.fn(this);
+                        }
+                        else {
+                            //不满足条件执行{{else}}部分
+                            return options.inverse(this);
+                        }
+                    });
+                    //注册一个翻译用的Helper，0翻译成男，1翻译成女
+                    Handlebars.registerHelper("transformat", function (value) {
+                        if (value == 0) {
+                            return "男";
+                        } else if (value == 1) {
+                            return "女";
+                        }
+                    });
+                    //注册一个Handlebars模版，通过id找到某一个模版，获取模版的html框架
+                    //$("#table-template").html()是jquery的语法，不懂的童鞋请恶补。。。
+                    var myTemplate = Handlebars.compile($("#table-template").html());
+
+                    //将json对象用刚刚注册的Handlebars模版封装，得到最终的html，插入到基础table中。
+                    $('#tableList').html(myTemplate(data));
+                });
+            </script>
+        </div>
+    </div>
+
+
+
+</body>
+</html>

@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>HandleBars-Demos</title>
+    <meta charset="utf-8" />
+    <script src="../scripts/handlebars-v4.0.5.js"></script>
+    <script src="../scripts/jquery-1.12.3.js"></script>
+    <script src="../scripts/jquery-ui.min.js"></script>
+    <script src="../scripts/jquery.fullPage.js"></script>
+    <link href="../scripts/jquery.fullPage.css" rel="stylesheet" />
+    <link href="../scripts/examples.css" rel="stylesheet" />
+    <script src="index.js"></script>
+    <style>
+        .fp-tableCell {
+            display: table-cell;
+            vertical-align: top;
+            width: 100%;
+            height: 100%;
+            text-align: right;
+        }
+
+        iframe {
+            height: 500px;
+            width: 100%;
+        }
+    </style>
+    <script>
+
+    </script>
+</head>
+<body>
+    <ul id="menu"></ul>
+
+    <div id="fullpage" />
+
+    <script id="menu-template" type="text/x-handlebars-template">
+        {{#each this}}
+        <li data-menuanchor="{{this}}"><a href="#{{this}}">{{this}}</a></li>
+        {{/each}}
+    </script>
+
+    <script id="fullpage-template" type="text/x-handlebars-template">
+        {{#each this}}
+        <div class="{{{classvalue}}}">
+            <h1>{{h1value}}</h1>
+            <div>
+                <iframe src="{{{srcvalue}}}" />
+            </div>
+        </div>
+        {{/each}}
+    </script>
+</body>
+</html>

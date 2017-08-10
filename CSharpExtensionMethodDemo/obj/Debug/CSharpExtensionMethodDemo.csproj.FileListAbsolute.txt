@@ -1,0 +1,16 @@
+D:\研究\Sample-FrameworkDesign\CSharpExtensionMethodDemo\CSharpExtensionMethodDemo\bin\Debug\CSharpExtensionMethodDemo.exe.config
+D:\研究\Sample-FrameworkDesign\CSharpExtensionMethodDemo\CSharpExtensionMethodDemo\bin\Debug\CSharpExtensionMethodDemo.exe
+D:\研究\Sample-FrameworkDesign\CSharpExtensionMethodDemo\CSharpExtensionMethodDemo\bin\Debug\CSharpExtensionMethodDemo.pdb
+D:\研究\Sample-FrameworkDesign\CSharpExtensionMethodDemo\CSharpExtensionMethodDemo\obj\Debug\CSharpExtensionMethodDemo.csprojResolveAssemblyReference.cache
+D:\研究\Sample-FrameworkDesign\CSharpExtensionMethodDemo\CSharpExtensionMethodDemo\obj\Debug\CSharpExtensionMethodDemo.exe
+D:\研究\Sample-FrameworkDesign\CSharpExtensionMethodDemo\CSharpExtensionMethodDemo\obj\Debug\CSharpExtensionMethodDemo.pdb
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\CSharpExtensionMethodDemo\bin\Debug\CSharpExtensionMethodDemo.exe.config
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\CSharpExtensionMethodDemo\bin\Debug\CSharpExtensionMethodDemo.exe
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\CSharpExtensionMethodDemo\bin\Debug\CSharpExtensionMethodDemo.pdb
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\CSharpExtensionMethodDemo\obj\Debug\CSharpExtensionMethodDemo.exe
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\CSharpExtensionMethodDemo\obj\Debug\CSharpExtensionMethodDemo.pdb
+D:\Learn\BMXSamples\CSharpExtensionMethodDemo\bin\Debug\CSharpExtensionMethodDemo.exe.config
+D:\Learn\BMXSamples\CSharpExtensionMethodDemo\bin\Debug\CSharpExtensionMethodDemo.exe
+D:\Learn\BMXSamples\CSharpExtensionMethodDemo\bin\Debug\CSharpExtensionMethodDemo.pdb
+D:\Learn\BMXSamples\CSharpExtensionMethodDemo\obj\Debug\CSharpExtensionMethodDemo.exe
+D:\Learn\BMXSamples\CSharpExtensionMethodDemo\obj\Debug\CSharpExtensionMethodDemo.pdb

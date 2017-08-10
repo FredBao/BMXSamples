@@ -1,0 +1,15 @@
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\TestConsole\bin\Debug\TestConsole.exe
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\TestConsole\bin\Debug\TestConsole.pdb
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\TestConsole\obj\Debug\TestConsole.exe
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\TestConsole\obj\Debug\TestConsole.pdb
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\TestConsole\obj\Debug\TestConsole.exe
+D:\学习\BMXSamples\TestConsole\obj\Debug\TestConsole.pdb
+D:\学习\BMXSamples\TestConsole\bin\Debug\TestConsole.exe
+D:\学习\BMXSamples\TestConsole\bin\Debug\TestConsole.pdb
+D:\学习\BMXSamples\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+D:\Learn\BMXSamples\TestConsole\obj\Debug\TestConsole.exe
+D:\Learn\BMXSamples\TestConsole\obj\Debug\TestConsole.pdb
+D:\Learn\BMXSamples\TestConsole\bin\Debug\TestConsole.exe
+D:\Learn\BMXSamples\TestConsole\bin\Debug\TestConsole.pdb
+D:\Learn\BMXSamples\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache

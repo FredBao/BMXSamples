@@ -1,0 +1,12 @@
+D:\研究\Sample-FrameworkDesign\CSharpExtensionMethodDemo\FactoryDesignPattern\bin\Debug\FactoryDesignPatternDemo.exe.config
+D:\研究\Sample-FrameworkDesign\FactoryDesignPatternDemo\bin\Debug\FactoryDesignPatternDemo.exe.config
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\FactoryDesignPatternDemo\bin\Debug\FactoryDesignPatternDemo.exe.config
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\FactoryDesignPatternDemo\bin\Debug\FactoryDesignPatternDemo.exe
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\FactoryDesignPatternDemo\bin\Debug\FactoryDesignPatternDemo.pdb
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\FactoryDesignPatternDemo\obj\Debug\FactoryDesignPatternDemo.exe
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\FactoryDesignPatternDemo\obj\Debug\FactoryDesignPatternDemo.pdb
+D:\Learn\BMXSamples\FactoryDesignPatternDemo\bin\Debug\FactoryDesignPatternDemo.exe.config
+D:\Learn\BMXSamples\FactoryDesignPatternDemo\bin\Debug\FactoryDesignPatternDemo.exe
+D:\Learn\BMXSamples\FactoryDesignPatternDemo\bin\Debug\FactoryDesignPatternDemo.pdb
+D:\Learn\BMXSamples\FactoryDesignPatternDemo\obj\Debug\FactoryDesignPatternDemo.exe
+D:\Learn\BMXSamples\FactoryDesignPatternDemo\obj\Debug\FactoryDesignPatternDemo.pdb

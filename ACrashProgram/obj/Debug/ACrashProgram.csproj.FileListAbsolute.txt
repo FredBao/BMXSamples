@@ -1,0 +1,6 @@
+D:\Learn\BMXSamples\ACrashProgram\bin\Debug\ACrashProgram.exe.config
+D:\Learn\BMXSamples\ACrashProgram\bin\Debug\ACrashProgram.exe
+D:\Learn\BMXSamples\ACrashProgram\bin\Debug\ACrashProgram.pdb
+D:\Learn\BMXSamples\ACrashProgram\obj\Debug\ACrashProgram.exe
+D:\Learn\BMXSamples\ACrashProgram\obj\Debug\ACrashProgram.pdb
+D:\Learn\BMXSamples\ACrashProgram\obj\Debug\ACrashProgram.csprojResolveAssemblyReference.cache

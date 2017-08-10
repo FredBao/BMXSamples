@@ -1,0 +1,165 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+
+    <link rel="shortcut icon" href="favicon.ico" />
+    <link href="scripts/style.min.css" rel="stylesheet" />
+    <link href="scripts/docs.min.css" rel="stylesheet" />
+    <!-- Bootstrap 3.3.6 -->
+    <link rel="stylesheet" href="scripts/bootstrap/css/bootstrap.min.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="scripts/dist/css/font-awesome.min.css">
+    <link rel="stylesheet" href="scripts/plugins/daterangepicker/daterangepicker-bs3.css">
+    <link rel="stylesheet" href="scripts/plugins/datatables/dataTables.bootstrap.css">
+
+    <!-- Theme style -->
+    <link rel="stylesheet" href="scripts/dist/css/AdminLTE.min.css">
+    <!-- AdminLTE Skins. We have chosen the skin-blue for this starter
+          page. However, you can choose any other skin. Make sure you
+          apply the skin class to the body tag so the changes take effect.
+    -->
+    <link rel="stylesheet" href="scripts/dist/css/skins/skin-blue.min.css">
+    <!-- jQuery 2.2.0 -->
+    <script src="scripts/plugins/jQuery/jQuery-2.2.0.min.js"></script>
+    <script src="scripts/plugins/js-cookie/js.cookie.js"></script>
+
+    <!-- REQUIRED JS SCRIPTS -->
+
+    <script src="scripts/plugins/select2/select2.full.min.js"></script>
+    <!-- Bootstrap 3.3.6 -->
+    <script src="scripts/bootstrap/js/bootstrap.min.js"></script>
+    <!-- AdminLTE App -->
+    <script src="scripts/dist/js/app.js"></script>
+    <script src="scripts/plugins/moment/moment.min.js"></script>
+    <script src="scripts/plugins/daterangepicker/daterangepicker.js"></script>
+
+    <style>
+        .nav {
+            font-size: 20px;
+        }
+
+        .description {
+            padding: 20px;
+            font-size: 24px;
+            text-align: left;
+            color:white;
+            background-color: #6f5499;
+        }
+
+
+        .box {
+            padding: 20px;
+        }
+    </style>
+    <script>
+        $(function () {
+            //设置导航选中选项
+            $(".nav").find("li").on("click", function () {
+                $(".nav").find("li").each(function () {
+                    $(this).removeClass("active");
+                });
+                $(this).addClass("active");
+            })
+        });
+    </script>
+</head>
+<body>
+    <!-- Docs master nav -->
+    <div>
+        <ul class="nav nav-pills bs-docs-nav">
+            <li role="presentation" class="active"><a href="ADONET.html">ADO.NET</a></li>
+            <li role="presentation"><a href="CLR.html">CLR</a></li>
+            <li role="presentation"><a href="#">EntityFramework</a></li>
+        </ul>
+    </div>
+    <!-- Docs page layout -->
+    <div class="description">
+        <h2>ADO.NET</h2>
+        <p>ADO.NET is a set of classes that expose data access services for .NET Framework programmers. ADO.NET provides a rich set of components for creating distributed, data-sharing applications. It is an integral part of the .NET Framework, providing access to relational, XML, and application data. ADO.NET supports a variety of development needs, including the creation of front-end database clients and middle-tier business objects used by applications, tools, languages, or Internet browsers.</p>
+    </div>
+    <hr />
+    <!--Content-->
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="box box-default">
+                <div class="box-header with-border">
+                    <h3 class="box-title">ADO.NET - MSDN</h3>
+
+                    <div class="box-tools pull-right">
+                        <button type="button" class="btn btn-box-tool" data-widget="collapse">
+                            <i class="fa fa-minus"></i>
+                        </button>
+                    </div>
+                    <!-- /.box-tools -->
+                </div>
+                <!-- /.box-header -->
+                <div class="box-body" style="display: block;">
+                    <article id="post-6105" class="post-6105 post type-post status-publish format-standard hentry category-uncategorized tag-net tag-community tag-week-in-net">
+
+                        <header class="entry-header"></header>
+
+                        <div class="entry-summary">
+                            <p>
+                                
+                                <a href="https://msdn.microsoft.com/en-us/library/e80y5yhx(v=vs.110).aspx" class="read-more">
+                                    Read more
+                                </a>
+                            </p>
+                        </div>
+
+                    </article>
+                </div>
+                <!-- /.box-body -->
+            </div>
+            <!-- /.box -->
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="box box-default">
+                <div class="box-header with-border">
+                    <h3 class="box-title">ADO.NET - Some Internals Uncovered</h3>
+
+                    <div class="box-tools pull-right">
+                        <button type="button" class="btn btn-box-tool" data-widget="collapse">
+                            <i class="fa fa-minus"></i>
+                        </button>
+                    </div>
+                    <!-- /.box-tools -->
+                </div>
+                <!-- /.box-header -->
+                <div class="box-body" style="display: block;">
+                    <article id="post-6105" class="post-6105 post type-post status-publish format-standard hentry category-uncategorized tag-net tag-community tag-week-in-net">
+
+                        <header class="entry-header"></header>
+
+                        <div class="entry-summary">
+                            <p>
+                                During the early phase of your career, when you just started learning about .NET technology, you might have come across the sentence "ADO.NET is a disconnected database architecture". Well, it's true, but how? How can ADO be transformed to such an architecture which no other database architecture supports. Every other database programming supports only RecordSet which you need to use to get data from the database. Have you ever thought of it ? If you didn't, it is time to rethink it now.
+                                <a href="http://www.codeproject.com/Articles/137786/ADO-NET-Some-Internals-Uncovered#_articleTop" class="read-more">
+                                    Read more
+                                </a>
+                            </p>
+                        </div>
+
+                    </article>
+                </div>
+                <!-- /.box-body -->
+            </div>
+            <!-- /.box -->
+        </div>
+    </div>
+    <!-- Footer
+    ================================================== -->
+    <!--<footer class="bs-docs-footer" role="contentinfo">
+        <div class="container">
+        </div>
+    </footer>-->
+</body>
+</html>

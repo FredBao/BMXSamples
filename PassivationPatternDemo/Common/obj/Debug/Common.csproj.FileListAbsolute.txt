@@ -1,0 +1,15 @@
+D:\研究\Sample-FrameworkDesign\PassivationPatternDemo\Common\bin\Debug\Common.dll
+D:\研究\Sample-FrameworkDesign\PassivationPatternDemo\Common\bin\Debug\Common.pdb
+D:\研究\Sample-FrameworkDesign\PassivationPatternDemo\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\研究\Sample-FrameworkDesign\PassivationPatternDemo\Common\obj\Debug\Common.dll
+D:\研究\Sample-FrameworkDesign\PassivationPatternDemo\Common\obj\Debug\Common.pdb
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\PassivationPatternDemo\Common\bin\Debug\Common.dll
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\PassivationPatternDemo\Common\bin\Debug\Common.pdb
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\PassivationPatternDemo\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\PassivationPatternDemo\Common\obj\Debug\Common.dll
+C:\Users\WimiDevs\Desktop\学习\BMXSamples\PassivationPatternDemo\Common\obj\Debug\Common.pdb
+D:\Learn\BMXSamples\PassivationPatternDemo\Common\bin\Debug\Common.dll
+D:\Learn\BMXSamples\PassivationPatternDemo\Common\bin\Debug\Common.pdb
+D:\Learn\BMXSamples\PassivationPatternDemo\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Learn\BMXSamples\PassivationPatternDemo\Common\obj\Debug\Common.dll
+D:\Learn\BMXSamples\PassivationPatternDemo\Common\obj\Debug\Common.pdb

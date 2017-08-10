@@ -1,0 +1,6 @@
+D:\学习\BMXSamples\EventBusPatternDemo\bin\Debug\EventBusPatternDemo.exe.config
+D:\学习\BMXSamples\EventBusPatternDemo\bin\Debug\EventBusPatternDemo.exe
+D:\学习\BMXSamples\EventBusPatternDemo\bin\Debug\EventBusPatternDemo.pdb
+D:\学习\BMXSamples\EventBusPatternDemo\obj\Debug\EventBusPatternDemo.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\EventBusPatternDemo\obj\Debug\EventBusPatternDemo.exe
+D:\学习\BMXSamples\EventBusPatternDemo\obj\Debug\EventBusPatternDemo.pdb

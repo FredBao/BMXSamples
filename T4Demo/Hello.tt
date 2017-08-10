@@ -1,0 +1,28 @@
+﻿<#@ template language="C#" hostspecific="true" #>
+<#@ assembly name="C:\Users\WimiDevs\Desktop\学习\BMXSamples\T4Demo\bin\Debug\T4Demo.exe" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ import namespace="T4Demo" #>
+<#@ import namespace="CustomHost" #>
+<#@ parameter type="System.Collections.Generic.List<Entity>" name="entities" #>
+<#@ output extension=".txt" #>
+
+<#
+    for(int i = 0; i < entities.Count; i++)
+    {
+#>
+Name  : <#= entities[i].Name #>
+Value : <#= entities[i].Value #>
+<#
+    } 
+#>
+
+<#
+	var host = (CustomTextTemplatingEngineHost)this.Host;
+
+    for(int i = 0; i < host.ints.Count; i++)
+    {
+#>
+Name  : <#= host.ints[i].ToString() #>
+<#
+    } 
+#>

@@ -1,0 +1,114 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <script src="../scripts/handlebars-v4.0.5.js"></script>
+    <script src="../scripts/jquery-1.12.3.js"></script>
+    <script src="../scripts/bootstrap.js"></script>
+    <link href="../scripts/bootstrap.css" rel="stylesheet" />
+    <title>each嵌套</title>
+</head>
+<body>
+    <h1>each嵌套</h1>
+
+    <div class="row col-sm-12" style="background-color:transparent;">
+        <!--代码-->
+        <div class="col-sm-8">
+            <h2>代码</h2>
+            <textarea class="col-sm-12" style="height:300px;" disabled>
+                <!--基础html框架-->
+                <div id="dataList"></div>
+
+                <!--Handlebars.js模版-->
+                <!--Handlebars.js模版放在script标签中，保留了html原有层次结构,模版中要写一些操作语句-->
+                <!--id可以用来唯一确定一个模版,type是模版固定的写法-->
+                <script id="table-template" type="text/x-handlebars-template">
+                    {{#each this}}
+                    {{#each info}}
+                    {{../name}}的{{this}}
+                    <br>
+                    {{/each}}
+                    {{/each}}
+                </script>
+
+                <!--进行数据处理、html构造-->
+                <script type="text/javascript">
+                    $(document).ready(function () {
+                        //模拟的json对象
+                        var data = [{
+                            "name": "张三",
+                            "info": [
+                              "眼睛",
+                              "耳朵",
+                              "鼻子"
+                            ]
+                        }, {
+                            "name": "李四",
+                            "info": [
+                              "爸爸",
+                              "妈妈",
+                              "妻子"
+                            ]
+                        }];
+
+                        //注册一个Handlebars模版，通过id找到某一个模版，获取模版的html框架
+                        //$("#table-template").html()是jquery的语法，不懂的童鞋请恶补。。。
+                        var myTemplate = Handlebars.compile($("#table-template").html());
+
+                        //将json对象用刚刚注册的Handlebars模版封装，得到最终的html，插入到基础table中。
+                        $('#dataList').html(myTemplate(data));
+                    });
+                </script>
+            </textarea>
+        </div>
+
+        <!--效果-->
+        <div class="col-sm-4">
+            <h2>效果</h2>
+            <!--基础html框架-->
+            <div id="dataList" class="bor"></div>
+
+            <!--Handlebars.js模版-->
+            <!--Handlebars.js模版放在script标签中，保留了html原有层次结构,模版中要写一些操作语句-->
+            <!--id可以用来唯一确定一个模版,type是模版固定的写法-->
+            <script id="table-template" type="text/x-handlebars-template">
+                {{#each this}}
+                {{#each info}}
+                {{../name}}的{{this}}
+                <br>
+                {{/each}}
+                {{/each}}
+            </script>
+
+            <!--进行数据处理、html构造-->
+            <script type="text/javascript">
+                $(document).ready(function () {
+                    //模拟的json对象
+                    var data = [{
+                        "name": "张三",
+                        "info": [
+                          "眼睛",
+                          "耳朵",
+                          "鼻子"
+                        ]
+                    }, {
+                        "name": "李四",
+                        "info": [
+                          "爸爸",
+                          "妈妈",
+                          "妻子"
+                        ]
+                    }];
+
+                    //注册一个Handlebars模版，通过id找到某一个模版，获取模版的html框架
+                    //$("#table-template").html()是jquery的语法，不懂的童鞋请恶补。。。
+                    var myTemplate = Handlebars.compile($("#table-template").html());
+
+                    //将json对象用刚刚注册的Handlebars模版封装，得到最终的html，插入到基础table中。
+                    $('#dataList').html(myTemplate(data));
+                });
+            </script>
+        </div>
+    </div>
+</body>
+</html>

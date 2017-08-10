@@ -1,0 +1,123 @@
+-1:向附属 AppDomain 封送会话或主机对象失败。请检查该主机和会话字典中的所有类型是否均可序列化，或是否均派生自 MarshalByReferenceObject。
+-1:运行转换代码时引发了异常。该过程无法继续。  引发了以下异常:
+System.Runtime.Serialization.SerializationException: 程序集“T4Demo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null”中的类型“CustomHost.CustomTextTemplatingEngineHost”未标记为可序列化。
+
+Server stack trace: 
+   在 System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers(RuntimeType type)
+   在 System.Runtime.Serialization.FormatterServices.GetSerializableMembers(Type type, StreamingContext context)
+   在 System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo()
+   在 System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize(Object obj, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, ObjectWriter objectWriter, SerializationBinder binder)
+   在 System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.Serialize(Object obj, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, ObjectWriter objectWriter, SerializationBinder binder)
+   在 System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize(Object graph, Header[] inHeaders, __BinaryWriter serWriter, Boolean fCheck)
+   在 System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph, Header[] headers, Boolean fCheck)
+   在 System.Runtime.Remoting.Channels.CrossAppDomainSerializer.SerializeMessageParts(ArrayList argsToSerialize)
+   在 System.Runtime.Remoting.Messaging.SmuggledMethodCallMessage..ctor(IMethodCallMessage mcm)
+   在 System.Runtime.Remoting.Messaging.SmuggledMethodCallMessage.SmuggleIfPossible(IMessage msg)
+   在 System.Runtime.Remoting.Channels.CrossAppDomainSink.SyncProcessMessage(IMessage reqMsg)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Microsoft.VisualStudio.TextTemplating.TransformationRunner.RunTransformation(TemplateProcessingSession session, String source, ITextTemplatingEngineHost host, String& result)
+   在 Microsoft.VisualStudio.TextTemplating.Engine.CompileAndRunCode(String generatorCode, ITextTemplatingEngineHost host, TemplateProcessingSession session)
+ErrorGeneratingOutput19:正在编译转换: 未能找到类型或命名空间名称“CustomTextTemplatingEngineHost”(是否缺少 using 指令或程序集引用?)
+ErrorGeneratingOutput
+Name  : 0
+Value : 2016/12/6 10:46:03
+Name  : 1
+Value : 2016/12/6 10:46:03
+Name  : 2
+Value : 2016/12/6 10:46:03
+Name  : 3
+Value : 2016/12/6 10:46:03
+Name  : 4
+Value : 2016/12/6 10:46:03
+Name  : 5
+Value : 2016/12/6 10:46:03
+Name  : 6
+Value : 2016/12/6 10:46:03
+Name  : 7
+Value : 2016/12/6 10:46:03
+Name  : 8
+Value : 2016/12/6 10:46:03
+
+Name  : host.ints[i]
+Name  : host.ints[i]
+Name  : host.ints[i]
+Name  : host.ints[i]
+Name  : host.ints[i]
+
+Name  : 0
+Value : 2016/12/6 10:47:00
+Name  : 1
+Value : 2016/12/6 10:47:00
+Name  : 2
+Value : 2016/12/6 10:47:00
+Name  : 3
+Value : 2016/12/6 10:47:00
+Name  : 4
+Value : 2016/12/6 10:47:00
+Name  : 5
+Value : 2016/12/6 10:47:00
+Name  : 6
+Value : 2016/12/6 10:47:00
+Name  : 7
+Value : 2016/12/6 10:47:00
+Name  : 8
+Value : 2016/12/6 10:47:00
+
+Name  : host.ints[i].ToString()
+Name  : host.ints[i].ToString()
+Name  : host.ints[i].ToString()
+Name  : host.ints[i].ToString()
+Name  : host.ints[i].ToString()
+
+Name  : 0
+Value : 2016/12/6 10:47:22
+Name  : 1
+Value : 2016/12/6 10:47:22
+Name  : 2
+Value : 2016/12/6 10:47:22
+Name  : 3
+Value : 2016/12/6 10:47:22
+Name  : 4
+Value : 2016/12/6 10:47:22
+Name  : 5
+Value : 2016/12/6 10:47:22
+Name  : 6
+Value : 2016/12/6 10:47:22
+Name  : 7
+Value : 2016/12/6 10:47:22
+Name  : 8
+Value : 2016/12/6 10:47:22
+
+Name  : 0
+Name  : 1
+Name  : 2
+Name  : 3
+Name  : 4
+
+Name  : 0
+Value : 2016/12/6 10:51:50
+Name  : 1
+Value : 2016/12/6 10:51:50
+Name  : 2
+Value : 2016/12/6 10:51:50
+Name  : 3
+Value : 2016/12/6 10:51:50
+Name  : 4
+Value : 2016/12/6 10:51:50
+Name  : 5
+Value : 2016/12/6 10:51:50
+Name  : 6
+Value : 2016/12/6 10:51:50
+Name  : 7
+Value : 2016/12/6 10:51:50
+Name  : 8
+Value : 2016/12/6 10:51:50
+
+Name  : 0
+Name  : 1
+Name  : 2
+Name  : 3
+Name  : 4
