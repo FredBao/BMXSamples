@@ -2,10 +2,8 @@ D:\学习\BMXSamples\ExploringCastleWindsor\obj\Debug\ExploringCastleWindsor.csp
 D:\学习\BMXSamples\ExploringCastleWindsor\bin\Debug\ExploringCastleWindsor.exe.config
 D:\学习\BMXSamples\ExploringCastleWindsor\bin\Debug\ExploringCastleWindsor.exe
 D:\学习\BMXSamples\ExploringCastleWindsor\bin\Debug\ExploringCastleWindsor.pdb
-D:\学习\BMXSamples\ExploringCastleWindsor\bin\Debug\BMX.dll
 D:\学习\BMXSamples\ExploringCastleWindsor\bin\Debug\Castle.Core.dll
 D:\学习\BMXSamples\ExploringCastleWindsor\bin\Debug\Castle.Windsor.dll
-D:\学习\BMXSamples\ExploringCastleWindsor\bin\Debug\BMX.pdb
 D:\学习\BMXSamples\ExploringCastleWindsor\bin\Debug\Castle.Core.xml
 D:\学习\BMXSamples\ExploringCastleWindsor\bin\Debug\Castle.Windsor.xml
 D:\学习\BMXSamples\ExploringCastleWindsor\obj\Debug\ExploringCastleWindsor.exe

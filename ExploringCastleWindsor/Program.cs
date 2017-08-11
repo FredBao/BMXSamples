@@ -22,7 +22,7 @@ namespace ExploringCastleWindsor
     public interface IEntitiy
     {
         /// <summary>
-        /// The log.
+        /// The log.\
         /// </summary>
         /// <param name="message">
         /// The message.
