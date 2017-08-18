@@ -3,10 +3,10 @@
     using System;
     using System.ComponentModel.DataAnnotations.Schema;
 
-    using BMX.Repositories;
+    using BMX.Domain.Entities;
 
     [Table("PartsOnlineRecords")]
-    public class PartsOnlineRecord : IEntity<int>
+    public class PartsOnlineRecord : IEntity
     {
         public int Id { get; set; }
         public string PartNo { get; set; }

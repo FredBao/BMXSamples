@@ -42,6 +42,18 @@
       <HintPath>..\packages\Dapper.1.50.2\lib\net451\Dapper.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.8\lib\net45-full\log4net.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="MongoDB.Bson, Version=2.4.4.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\MongoDB.Bson.2.4.4\lib\net45\MongoDB.Bson.dll</HintPath>
       <Private>True</Private>
@@ -55,6 +67,7 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Runtime.InteropServices.RuntimeInformation, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>..\packages\System.Runtime.InteropServices.RuntimeInformation.4.3.0\lib\net45\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
@@ -69,23 +82,37 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Aspect\CustomProxy.cs" />
+    <Compile Include="Aspect\LogHandlerAttribute.cs" />
+    <Compile Include="Aspect\MethodWithAspect.cs" />
+    <Compile Include="Aspect\ObjectWithAspect.cs" />
+    <Compile Include="BMXBootstrapper.cs" />
     <Compile Include="ConfigManager.cs" />
-    <Compile Include="DatabaseProviders\Mongodb\IMongodbProvider.cs" />
-    <Compile Include="DatabaseProviders\Mongodb\MongodbProvider.cs" />
+    <Compile Include="Domain\Entities\EntityOfTPrimaryKey.cs" />
+    <Compile Include="Domain\Entities\Entity.cs" />
+    <Compile Include="Domain\Entities\FullAuditedEntity.cs" />
+    <Compile Include="Domain\Entities\FullAuditedEntityOfPrimaryKey.cs" />
+    <Compile Include="Domain\Entities\IEntityOfTPrimaryKey.cs" />
+    <Compile Include="Domain\Repositories\IRepositoryOfTEntity.cs" />
+    <Compile Include="Domain\Repositories\IRepositoryOfTEntityAndTPrimaryKey.cs" />
+    <Compile Include="EntityFramework\BaseContext.cs" />
+    <Compile Include="EntityFramework\EfRepositoryOfTEntityAndTPrimaryKey.cs" />
+    <Compile Include="EntityFramework\EfRepositoryOfTEntity.cs" />
+    <Compile Include="Installers\DbContextsInstaller.cs" />
+    <Compile Include="Installers\RepositoriesInstaller.cs" />
     <Compile Include="ITransientDependency.cs" />
-    <Compile Include="DatabaseProviders\SqlServer\ISqlServerProvider.cs" />
-    <Compile Include="DatabaseProviders\SqlServer\SqlServerProvider.cs" />
+    <Compile Include="Logger\Logger.cs" />
+    <Compile Include="Logger\LogSeverity.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Repositories\IEntity.cs" />
-    <Compile Include="Repositories\IRepository.cs" />
-    <Compile Include="Repositories\ILinqRepository.cs" />
-    <Compile Include="Repositories\ISqlRepository.cs" />
+    <Compile Include="Domain\Entities\IEntity.cs" />
+    <Compile Include="Domain\Repositories\IRepository.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Logger\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="app.config" />
+    <None Include="log4net.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

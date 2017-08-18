@@ -2,10 +2,21 @@
 {
     public static class ConfigManager
     {
-        public static string MongoDatabaseName { get; private set; }
+        public static class EntityFrameworkConfiguration
+        {
+            public static string ConnectionString { get; set; }
+        }
 
-        public static string MongoConnectionString { get; private set; }
+        public static class MongoDbConfiguration
+        {
+            public static string ConnectionString { get; set; }
 
-        public static string SqlServerConnection { get; private set; }
+            public static string DatabaseName { get; set; }
+        }
+
+        public static class LogConfiguration
+        {
+            public static bool DebugMode { get; set; }
+        }
     }
 }
