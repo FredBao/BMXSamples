@@ -14,3 +14,8 @@ D:\Learn\BMXSamples\SocketAsyncEventArgsClient\SocketAsyncEventArgsClient\bin\De
 D:\Learn\BMXSamples\SocketAsyncEventArgsClient\SocketAsyncEventArgsClient\bin\Debug\SocketAsyncEventArgsClient.pdb
 D:\Learn\BMXSamples\SocketAsyncEventArgsClient\SocketAsyncEventArgsClient\obj\Debug\SocketAsyncEventArgsClient.exe
 D:\Learn\BMXSamples\SocketAsyncEventArgsClient\SocketAsyncEventArgsClient\obj\Debug\SocketAsyncEventArgsClient.pdb
+D:\学习\BMXSamples\SocketAsyncEventArgsClient\SocketAsyncEventArgsClient\bin\Debug\SocketAsyncEventArgsClient.exe.config
+D:\学习\BMXSamples\SocketAsyncEventArgsClient\SocketAsyncEventArgsClient\bin\Debug\SocketAsyncEventArgsClient.exe
+D:\学习\BMXSamples\SocketAsyncEventArgsClient\SocketAsyncEventArgsClient\bin\Debug\SocketAsyncEventArgsClient.pdb
+D:\学习\BMXSamples\SocketAsyncEventArgsClient\SocketAsyncEventArgsClient\obj\Debug\SocketAsyncEventArgsClient.exe
+D:\学习\BMXSamples\SocketAsyncEventArgsClient\SocketAsyncEventArgsClient\obj\Debug\SocketAsyncEventArgsClient.pdb

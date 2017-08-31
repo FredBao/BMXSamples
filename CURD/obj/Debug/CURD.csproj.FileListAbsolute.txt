@@ -41,3 +41,14 @@ D:\Learn\BMXSamples\CURD\bin\Debug\MongoDB.Driver.xml
 D:\Learn\BMXSamples\CURD\obj\Debug\CURD.csprojResolveAssemblyReference.cache
 D:\Learn\BMXSamples\CURD\obj\Debug\CURD.exe
 D:\Learn\BMXSamples\CURD\obj\Debug\CURD.pdb
+D:\学习\BMXSamples\CURD\bin\Debug\CURD.exe.config
+D:\学习\BMXSamples\CURD\bin\Debug\CURD.exe
+D:\学习\BMXSamples\CURD\bin\Debug\CURD.pdb
+D:\学习\BMXSamples\CURD\bin\Debug\MongoDB.Bson.dll
+D:\学习\BMXSamples\CURD\bin\Debug\MongoDB.Driver.Core.dll
+D:\学习\BMXSamples\CURD\bin\Debug\MongoDB.Driver.dll
+D:\学习\BMXSamples\CURD\bin\Debug\MongoDB.Bson.xml
+D:\学习\BMXSamples\CURD\bin\Debug\MongoDB.Driver.xml
+D:\学习\BMXSamples\CURD\obj\Debug\CURD.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\CURD\obj\Debug\CURD.exe
+D:\学习\BMXSamples\CURD\obj\Debug\CURD.pdb

@@ -1,33 +1,36 @@
-﻿namespace BMX.Logger
+﻿namespace Bmx.Abp.Logging
 {
+    using System;
+
     /// <summary>
     /// Indicates severity for log.
     /// </summary>
+    [Flags]
     public enum LogSeverity
     {
         /// <summary>
         /// Debug.
         /// </summary>
-        Debug,
+        Debug = 1,
 
         /// <summary>
         /// Info.
         /// </summary>
-        Info,
+        Info = 2,
 
         /// <summary>
         /// Warn.
         /// </summary>
-        Warn,
+        Warn = 4,
 
         /// <summary>
         /// Error.
         /// </summary>
-        Error,
+        Error = 8,
 
         /// <summary>
         /// Fatal.
         /// </summary>
-        Fatal
+        Fatal = 16
     }
 }

@@ -13,3 +13,8 @@ D:\Learn\BMXSamples\PassivationPatternDemo\Common\bin\Debug\Common.pdb
 D:\Learn\BMXSamples\PassivationPatternDemo\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
 D:\Learn\BMXSamples\PassivationPatternDemo\Common\obj\Debug\Common.dll
 D:\Learn\BMXSamples\PassivationPatternDemo\Common\obj\Debug\Common.pdb
+D:\学习\BMXSamples\PassivationPatternDemo\Common\bin\Debug\Common.dll
+D:\学习\BMXSamples\PassivationPatternDemo\Common\bin\Debug\Common.pdb
+D:\学习\BMXSamples\PassivationPatternDemo\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\PassivationPatternDemo\Common\obj\Debug\Common.dll
+D:\学习\BMXSamples\PassivationPatternDemo\Common\obj\Debug\Common.pdb

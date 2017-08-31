@@ -7,8 +7,8 @@
     <ProjectGuid>{56E1D0D1-BB1B-4483-8EF3-7D8BCF173D46}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BMX</RootNamespace>
-    <AssemblyName>BMX</AssemblyName>
+    <RootNamespace>Bmx.Abp</RootNamespace>
+    <AssemblyName>Bmx.Abp</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -86,8 +86,10 @@
     <Compile Include="Aspect\LogHandlerAttribute.cs" />
     <Compile Include="Aspect\MethodWithAspect.cs" />
     <Compile Include="Aspect\ObjectWithAspect.cs" />
-    <Compile Include="BMXBootstrapper.cs" />
-    <Compile Include="ConfigManager.cs" />
+    <Compile Include="Domain\Entities\IMongoEntity.cs" />
+    <Compile Include="Domain\Entities\MongoDbEntity.cs" />
+    <Compile Include="Infrastructure\Bootstrapper.cs" />
+    <Compile Include="Configuration\ConfigManager.cs" />
     <Compile Include="Domain\Entities\EntityOfTPrimaryKey.cs" />
     <Compile Include="Domain\Entities\Entity.cs" />
     <Compile Include="Domain\Entities\FullAuditedEntity.cs" />
@@ -98,11 +100,23 @@
     <Compile Include="EntityFramework\BaseContext.cs" />
     <Compile Include="EntityFramework\EfRepositoryOfTEntityAndTPrimaryKey.cs" />
     <Compile Include="EntityFramework\EfRepositoryOfTEntity.cs" />
-    <Compile Include="Installers\DbContextsInstaller.cs" />
+    <Compile Include="EntityFramework\EfConventionalRegistrar.cs" />
+    <Compile Include="Infrastructure\ConventionalRegistrationContext.cs" />
+    <Compile Include="Infrastructure\IConventionalDependencyRegistrar.cs" />
+    <Compile Include="Infrastructure\IConventionalRegistrationContext.cs" />
+    <Compile Include="Infrastructure\IIocManager.cs" />
+    <Compile Include="Installers\LoggerInstallers.cs" />
     <Compile Include="Installers\RepositoriesInstaller.cs" />
-    <Compile Include="ITransientDependency.cs" />
-    <Compile Include="Logger\Logger.cs" />
-    <Compile Include="Logger\LogSeverity.cs" />
+    <Compile Include="Infrastructure\IocManager.cs" />
+    <Compile Include="Infrastructure\ITransientDependency.cs" />
+    <Compile Include="Logging\ILogger.cs" />
+    <Compile Include="Logging\Logger.cs" />
+    <Compile Include="Logging\LogSeverity.cs" />
+    <Compile Include="MongoDb\IMongoDbRepositoryOfBsonDocument.cs" />
+    <Compile Include="MongoDb\MongoDbRepositoryOfBsonDocument.cs" />
+    <Compile Include="MongoDb\MongoDbRepository.cs" />
+    <Compile Include="MongoDb\IMongoDbRepository.cs" />
+    <Compile Include="MongoDb\MongoDbConventionalRegistrar.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Domain\Entities\IEntity.cs" />
     <Compile Include="Domain\Repositories\IRepository.cs" />

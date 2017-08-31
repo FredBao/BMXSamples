@@ -9,3 +9,8 @@ D:\Learn\BMXSamples\ContextPattern\bin\Debug\ContextPattern.exe
 D:\Learn\BMXSamples\ContextPattern\bin\Debug\ContextPattern.pdb
 D:\Learn\BMXSamples\ContextPattern\obj\Debug\ContextPattern.exe
 D:\Learn\BMXSamples\ContextPattern\obj\Debug\ContextPattern.pdb
+D:\学习\BMXSamples\ContextPattern\bin\Debug\ContextPattern.exe.config
+D:\学习\BMXSamples\ContextPattern\bin\Debug\ContextPattern.exe
+D:\学习\BMXSamples\ContextPattern\bin\Debug\ContextPattern.pdb
+D:\学习\BMXSamples\ContextPattern\obj\Debug\ContextPattern.exe
+D:\学习\BMXSamples\ContextPattern\obj\Debug\ContextPattern.pdb

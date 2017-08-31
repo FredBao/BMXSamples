@@ -1,4 +1,4 @@
-﻿namespace BMX.Domain.Repositories
+﻿namespace Bmx.Abp.Domain.Repositories
 {
     using System;
     using System.Collections.Generic;

@@ -1,4 +1,4 @@
-﻿namespace BMX.EntityFramework
+﻿namespace Bmx.Abp.EntityFramework
 {
     using System.Data.Entity;
 

@@ -1,16 +1,20 @@
-﻿namespace BMX.Logger
+﻿namespace Bmx.Abp.Logging
 {
     using System;
 
+    using Bmx.Abp.Configuration;
+
+    using Infrastructure;
+
     using log4net;
 
-    public static class Logger
+    public class Logger : ILogger
     {
-        private static readonly ILog log = LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
+        private static readonly ILog Log = LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
 
-        public static void Debug(string content)
+        public void Debug(string content)
         {
-            log.Debug(content);
+            Log.Debug(content);
 
             if (ConfigManager.LogConfiguration.DebugMode)
             {
@@ -18,9 +22,9 @@
             }
         }
 
-        public static void Info(string content)
+        public void Info(string content)
         {
-            log.Info(content);
+            Log.Info(content);
 
             if (ConfigManager.LogConfiguration.DebugMode)
             {
@@ -28,9 +32,9 @@
             }
         }
 
-        public static void Warn(string content)
+        public void Warn(string content)
         {
-            log.Warn(content);
+            Log.Warn(content);
 
             if (ConfigManager.LogConfiguration.DebugMode)
             {
@@ -38,9 +42,9 @@
             }
         }
 
-        public static void Error(string content)
+        public void Error(string content)
         {
-            log.Error(content);
+            Log.Error(content);
 
             if (ConfigManager.LogConfiguration.DebugMode)
             {

@@ -14,3 +14,8 @@ D:\Learn\BMXSamples\CSharpExtensionMethodDemo\bin\Debug\CSharpExtensionMethodDem
 D:\Learn\BMXSamples\CSharpExtensionMethodDemo\bin\Debug\CSharpExtensionMethodDemo.pdb
 D:\Learn\BMXSamples\CSharpExtensionMethodDemo\obj\Debug\CSharpExtensionMethodDemo.exe
 D:\Learn\BMXSamples\CSharpExtensionMethodDemo\obj\Debug\CSharpExtensionMethodDemo.pdb
+D:\学习\BMXSamples\CSharpExtensionMethodDemo\bin\Debug\CSharpExtensionMethodDemo.exe.config
+D:\学习\BMXSamples\CSharpExtensionMethodDemo\bin\Debug\CSharpExtensionMethodDemo.exe
+D:\学习\BMXSamples\CSharpExtensionMethodDemo\bin\Debug\CSharpExtensionMethodDemo.pdb
+D:\学习\BMXSamples\CSharpExtensionMethodDemo\obj\Debug\CSharpExtensionMethodDemo.exe
+D:\学习\BMXSamples\CSharpExtensionMethodDemo\obj\Debug\CSharpExtensionMethodDemo.pdb

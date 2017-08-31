@@ -16,3 +16,9 @@ D:\Learn\BMXSamples\UnitTestDemo\UnitTestDemo\bin\Debug\UnitTestDemo.pdb
 D:\Learn\BMXSamples\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.csprojResolveAssemblyReference.cache
 D:\Learn\BMXSamples\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.exe
 D:\Learn\BMXSamples\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.pdb
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemo\bin\Debug\UnitTestDemo.exe.config
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemo\bin\Debug\UnitTestDemo.exe
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemo\bin\Debug\UnitTestDemo.pdb
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.exe
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.pdb

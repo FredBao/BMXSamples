@@ -9,3 +9,8 @@ D:\Learn\BMXSamples\FluentProgramPattern\bin\Debug\FluentProgramPattern.exe
 D:\Learn\BMXSamples\FluentProgramPattern\bin\Debug\FluentProgramPattern.pdb
 D:\Learn\BMXSamples\FluentProgramPattern\obj\Debug\FluentProgramPattern.exe
 D:\Learn\BMXSamples\FluentProgramPattern\obj\Debug\FluentProgramPattern.pdb
+D:\学习\BMXSamples\FluentProgramPattern\bin\Debug\FluentProgramPattern.exe.config
+D:\学习\BMXSamples\FluentProgramPattern\bin\Debug\FluentProgramPattern.exe
+D:\学习\BMXSamples\FluentProgramPattern\bin\Debug\FluentProgramPattern.pdb
+D:\学习\BMXSamples\FluentProgramPattern\obj\Debug\FluentProgramPattern.exe
+D:\学习\BMXSamples\FluentProgramPattern\obj\Debug\FluentProgramPattern.pdb

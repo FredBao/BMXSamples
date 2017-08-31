@@ -10,3 +10,8 @@ D:\Learn\BMXSamples\FactoryDesignPatternDemo\bin\Debug\FactoryDesignPatternDemo.
 D:\Learn\BMXSamples\FactoryDesignPatternDemo\bin\Debug\FactoryDesignPatternDemo.pdb
 D:\Learn\BMXSamples\FactoryDesignPatternDemo\obj\Debug\FactoryDesignPatternDemo.exe
 D:\Learn\BMXSamples\FactoryDesignPatternDemo\obj\Debug\FactoryDesignPatternDemo.pdb
+D:\学习\BMXSamples\FactoryDesignPatternDemo\bin\Debug\FactoryDesignPatternDemo.exe.config
+D:\学习\BMXSamples\FactoryDesignPatternDemo\bin\Debug\FactoryDesignPatternDemo.exe
+D:\学习\BMXSamples\FactoryDesignPatternDemo\bin\Debug\FactoryDesignPatternDemo.pdb
+D:\学习\BMXSamples\FactoryDesignPatternDemo\obj\Debug\FactoryDesignPatternDemo.exe
+D:\学习\BMXSamples\FactoryDesignPatternDemo\obj\Debug\FactoryDesignPatternDemo.pdb

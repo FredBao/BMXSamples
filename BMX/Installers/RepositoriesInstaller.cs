@@ -1,4 +1,4 @@
-﻿namespace BMX.Installers
+﻿namespace Bmx.Abp.Installers
 {
     using Castle.MicroKernel.Registration;
     using Castle.MicroKernel.SubSystems.Configuration;

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BMX.Domain.Entities
+namespace Bmx.Abp.Domain.Entities
 {
     /// <summary>
     /// A shortcut of <see cref="Entity{TPrimaryKey}"/> for most used primary key type (<see cref="int"/>).

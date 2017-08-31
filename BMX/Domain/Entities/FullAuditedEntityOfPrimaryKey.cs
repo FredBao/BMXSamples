@@ -1,4 +1,4 @@
-﻿namespace BMX.Domain.Entities
+﻿namespace Bmx.Abp.Domain.Entities
 {
     using System;
 

@@ -1,0 +1,5 @@
+2017-08-30 14:09:39,012  [ INFO] Bmx.Abp.Logging.Logger: OnModelCreating() Done.
+2017-08-30 14:30:48,072  [ INFO] Bmx.Abp.Logging.Logger: Count() Done.
+2017-08-30 14:30:48,119  [ INFO] Bmx.Abp.Logging.Logger: OnModelCreating() Done.
+2017-08-30 14:36:08,830  [ INFO] Bmx.Abp.Logging.Logger: Count() Done.
+2017-08-30 14:36:08,879  [ INFO] Bmx.Abp.Logging.Logger: OnModelCreating() Done.

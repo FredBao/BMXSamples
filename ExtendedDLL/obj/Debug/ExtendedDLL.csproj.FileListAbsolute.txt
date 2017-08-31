@@ -16,3 +16,4 @@ D:\学习\BMXSamples\TestConsole\bin\Debug\ExtDlls\ExtendedDLL.dll
 D:\学习\BMXSamples\TestConsole\bin\Debug\ExtDlls\ExtendedDLL.pdb
 D:\学习\BMXSamples\ExtendedDLL\obj\Debug\ExtendedDLL.dll
 D:\学习\BMXSamples\ExtendedDLL\obj\Debug\ExtendedDLL.pdb
+D:\学习\BMXSamples\ExtendedDLL\obj\Debug\ExtendedDLL.csprojResolveAssemblyReference.cache

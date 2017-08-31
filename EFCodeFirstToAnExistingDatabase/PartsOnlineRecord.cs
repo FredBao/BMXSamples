@@ -3,12 +3,13 @@
     using System;
     using System.ComponentModel.DataAnnotations.Schema;
 
-    using BMX.Domain.Entities;
+    using Bmx.Abp.Domain.Entities;
 
     [Table("PartsOnlineRecords")]
     public class PartsOnlineRecord : IEntity
     {
         public int Id { get; set; }
+
         public string PartNo { get; set; }
 
         public DateTime StartTime { get; set; }

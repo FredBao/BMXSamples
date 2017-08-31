@@ -16,3 +16,8 @@ D:\Learn\BMXSamples\PartialClassAndMethodDemo\bin\Debug\PartialClassAndMethodDem
 D:\Learn\BMXSamples\PartialClassAndMethodDemo\bin\Debug\PartialClassAndMethodDemo.pdb
 D:\Learn\BMXSamples\PartialClassAndMethodDemo\obj\Debug\PartialClassAndMethodDemo.exe
 D:\Learn\BMXSamples\PartialClassAndMethodDemo\obj\Debug\PartialClassAndMethodDemo.pdb
+D:\学习\BMXSamples\PartialClassAndMethodDemo\bin\Debug\PartialClassAndMethodDemo.exe.config
+D:\学习\BMXSamples\PartialClassAndMethodDemo\bin\Debug\PartialClassAndMethodDemo.exe
+D:\学习\BMXSamples\PartialClassAndMethodDemo\bin\Debug\PartialClassAndMethodDemo.pdb
+D:\学习\BMXSamples\PartialClassAndMethodDemo\obj\Debug\PartialClassAndMethodDemo.exe
+D:\学习\BMXSamples\PartialClassAndMethodDemo\obj\Debug\PartialClassAndMethodDemo.pdb

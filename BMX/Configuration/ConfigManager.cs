@@ -1,5 +1,11 @@
-﻿namespace BMX
+﻿namespace Bmx.Abp.Configuration
 {
+    using System;
+    using System.Collections.Concurrent;
+    using System.Collections.Generic;
+
+    using Bmx.Abp.MongoDb;
+
     public static class ConfigManager
     {
         public static class EntityFrameworkConfiguration

@@ -14,7 +14,14 @@ D:\学习\BMXSamples\EFCodeFirstToAnExistingDatabase\bin\Debug\Castle.Core.dll
 D:\学习\BMXSamples\EFCodeFirstToAnExistingDatabase\bin\Debug\Castle.Windsor.dll
 D:\学习\BMXSamples\EFCodeFirstToAnExistingDatabase\bin\Debug\Castle.Windsor.xml
 D:\学习\BMXSamples\EFCodeFirstToAnExistingDatabase\bin\Debug\log4net.config
-D:\学习\BMXSamples\EFCodeFirstToAnExistingDatabase\bin\Debug\BMX.dll
 D:\学习\BMXSamples\EFCodeFirstToAnExistingDatabase\bin\Debug\log4net.dll
-D:\学习\BMXSamples\EFCodeFirstToAnExistingDatabase\bin\Debug\BMX.pdb
 D:\学习\BMXSamples\EFCodeFirstToAnExistingDatabase\bin\Debug\log4net.xml
+D:\学习\BMXSamples\EFCodeFirstToAnExistingDatabase\bin\Debug\Bmx.Abp.dll
+D:\学习\BMXSamples\EFCodeFirstToAnExistingDatabase\bin\Debug\Bmx.Abp.pdb
+D:\学习\BMXSamples\EFCodeFirstToAnExistingDatabase\bin\Debug\MongoDB.Bson.dll
+D:\学习\BMXSamples\EFCodeFirstToAnExistingDatabase\bin\Debug\MongoDB.Driver.dll
+D:\学习\BMXSamples\EFCodeFirstToAnExistingDatabase\bin\Debug\MongoDB.Driver.Core.dll
+D:\学习\BMXSamples\EFCodeFirstToAnExistingDatabase\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\学习\BMXSamples\EFCodeFirstToAnExistingDatabase\bin\Debug\MongoDB.Bson.xml
+D:\学习\BMXSamples\EFCodeFirstToAnExistingDatabase\bin\Debug\MongoDB.Driver.xml
+D:\学习\BMXSamples\EFCodeFirstToAnExistingDatabase\bin\Debug\MongoDB.Driver.Core.xml

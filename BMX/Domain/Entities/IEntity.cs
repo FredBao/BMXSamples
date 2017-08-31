@@ -1,4 +1,4 @@
-﻿namespace BMX.Domain.Entities
+﻿namespace Bmx.Abp.Domain.Entities
 {
     /// <summary>
     ///  Defines interface for base entity type. All entities in the system must implement

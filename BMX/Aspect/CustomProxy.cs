@@ -1,4 +1,4 @@
-﻿namespace BMX.Aspect
+﻿namespace Bmx.Abp.Aspect
 {
     using System;
     using System.Reflection;

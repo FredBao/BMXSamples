@@ -1,4 +1,4 @@
-﻿namespace BMX.EntityFramework
+﻿namespace Bmx.Abp.EntityFramework
 {
     using System;
     using System.Collections.Generic;
@@ -7,8 +7,8 @@
     using System.Linq;
     using System.Linq.Expressions;
 
-    using BMX.Domain.Entities;
-    using BMX.Domain.Repositories;
+    using Bmx.Abp.Domain.Entities;
+    using Bmx.Abp.Domain.Repositories;
 
     public class EfRepository<TEntity, TPrimaryKey> : IRepository<TEntity, TPrimaryKey>
         where TEntity : class, IEntity<TPrimaryKey>

@@ -125,7 +125,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExploringCastleWindsor", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCodeFirstToAnExistingDatabase", "EFCodeFirstToAnExistingDatabase\EFCodeFirstToAnExistingDatabase.csproj", "{B9F5D4FC-EBC6-4C53-BD3F-3DD31E70598E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMX", "BMX\BMX.csproj", "{56E1D0D1-BB1B-4483-8EF3-7D8BCF173D46}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bmx.Abp", "BMX\Bmx.Abp.csproj", "{56E1D0D1-BB1B-4483-8EF3-7D8BCF173D46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
