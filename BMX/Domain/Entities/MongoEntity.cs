@@ -6,7 +6,7 @@
     using MongoDB.Driver;
 
     [Serializable]
-    public abstract class MongoDbEntity : IMongoEntity
+    public abstract class MongoEntity : IMongoEntity
     {
         public ObjectId Id { get; set; }
 

@@ -7,7 +7,7 @@
     using MongoDB.Bson;
     using MongoDB.Driver;
 
-    public class Parameter : MongoDbEntity
+    public class Parameter : MongoEntity
     {
         public string Code { get; set; }
 

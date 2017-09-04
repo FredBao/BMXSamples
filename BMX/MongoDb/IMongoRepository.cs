@@ -6,7 +6,7 @@
 
     using MongoDB.Driver;
 
-    public interface IMongoDbRepository<TEntity> : IRepository 
+    public interface IMongoRepository<TEntity> : IRepository
         where TEntity : class
     {
         long Count();
@@ -29,8 +29,6 @@
 
         void UpdateOne(FilterDefinition<TEntity> filter, UpdateDefinition<TEntity> update);
 
-        void UpdateMany(FilterDefinition<TEntity> filter, UpdateDefinition<TEntity> update); 
-
-        IMongoCollection<TEntity> GetCollection(IMongoDatabase mongoDatabase);
+        void UpdateMany(FilterDefinition<TEntity> filter, UpdateDefinition<TEntity> update);
     }
 }

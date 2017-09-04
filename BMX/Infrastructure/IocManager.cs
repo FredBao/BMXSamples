@@ -1,6 +1,7 @@
 ﻿namespace Bmx.Abp.Infrastructure
 {
     using System;
+    using System.Collections.Generic;
     using System.Reflection;
 
     using Castle.Windsor;
@@ -8,32 +9,30 @@
 
     public class IocManager : IIocManager
     {
-        static IocManager()
-        {
-            Instance = new IocManager();
-        }
-
         public IocManager()
         {
             this.IocContainer = new WindsorContainer();
         }
         
-        public static IocManager Instance { get; private set; }
-        
+        public static IocManager Instance { get; private set; } = new IocManager();
+
         public IWindsorContainer IocContainer { get; private set; }
-        
-        public void RegisterAssemblyByConvention(Assembly assembly, IConventionalDependencyRegistrar registerer, bool installInstallers = false)
+
+        public void RegisterAssemblyByConvention(Assembly assembly, bool installInstallers = false, params IConventionalDependencyRegistrar[] registerers)
         {
             var context = new ConventionalRegistrationContext(assembly, this.IocContainer);
 
-            registerer.RegisterAssembly(context);
+            foreach (var conventionalDependencyRegistrar in registerers)
+            {
+                conventionalDependencyRegistrar.RegisterAssembly(context);
+            }
 
             if (installInstallers)
             {
                 this.IocContainer.Install(FromAssembly.Instance(assembly));
             }
         }
-        
+
         public bool IsRegistered(Type type)
         {
             return this.IocContainer.Kernel.HasComponent(type);

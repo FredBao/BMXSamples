@@ -11,14 +11,14 @@
     {
         private readonly IRepository<PartsOnlineRecord> repository;
 
-        private readonly IMongoDbRepository<Alarm> alarmRepository;
+        private readonly IMongoRepository<Alarm> alarmRepository;
 
-        private readonly IMongoDbRepository<Parameter, BsonDocument> parameterRepository;
+        private readonly IMongoRepository<Parameter, BsonDocument> parameterRepository;
 
         public AppService(
             IRepository<PartsOnlineRecord> repository,
-            IMongoDbRepository<Alarm> alarmRepository,
-            IMongoDbRepository<Parameter, BsonDocument> parameterRepository)
+            IMongoRepository<Alarm> alarmRepository,
+            IMongoRepository<Parameter, BsonDocument> parameterRepository)
         {
             this.repository = repository;
             this.alarmRepository = alarmRepository;

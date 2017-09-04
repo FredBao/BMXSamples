@@ -87,7 +87,7 @@
     <Compile Include="Aspect\MethodWithAspect.cs" />
     <Compile Include="Aspect\ObjectWithAspect.cs" />
     <Compile Include="Domain\Entities\IMongoEntity.cs" />
-    <Compile Include="Domain\Entities\MongoDbEntity.cs" />
+    <Compile Include="Domain\Entities\MongoEntity.cs" />
     <Compile Include="Infrastructure\Bootstrapper.cs" />
     <Compile Include="Configuration\ConfigManager.cs" />
     <Compile Include="Domain\Entities\EntityOfTPrimaryKey.cs" />
@@ -112,11 +112,13 @@
     <Compile Include="Logging\ILogger.cs" />
     <Compile Include="Logging\Logger.cs" />
     <Compile Include="Logging\LogSeverity.cs" />
-    <Compile Include="MongoDb\IMongoDbRepositoryOfBsonDocument.cs" />
-    <Compile Include="MongoDb\MongoDbRepositoryOfBsonDocument.cs" />
-    <Compile Include="MongoDb\MongoDbRepository.cs" />
-    <Compile Include="MongoDb\IMongoDbRepository.cs" />
-    <Compile Include="MongoDb\MongoDbConventionalRegistrar.cs" />
+    <Compile Include="MongoDb\IMongoContext.cs" />
+    <Compile Include="MongoDb\IMongoRepositoryWithBsonDocument.cs" />
+    <Compile Include="MongoDb\MongoDbContext.cs" />
+    <Compile Include="MongoDb\MongoRepositoryWithBsonDocument.cs" />
+    <Compile Include="MongoDb\MongoRepository.cs" />
+    <Compile Include="MongoDb\IMongoRepository.cs" />
+    <Compile Include="MongoDb\MongoConventionalRegistrar.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Domain\Entities\IEntity.cs" />
     <Compile Include="Domain\Repositories\IRepository.cs" />

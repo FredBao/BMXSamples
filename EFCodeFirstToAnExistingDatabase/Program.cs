@@ -14,23 +14,12 @@
     {
         public static void Main(string[] args)
         {
-            ConfigManager.EntityFrameworkConfiguration.ConnectionString =
-                "Data Source=.;Initial Catalog=WIMIBTL6;Connect Timeout=30;persist security info=True;user id=sa;password=P@ssw0rd;MultipleActiveResultSets=True;";
-
-            ConfigManager.LogConfiguration.DebugMode = true;
-
-            ConfigManager.MongoDbConfiguration.ConnectionString = "mongodb://btlsystem:123qwe@192.168.0.108:27017/WIMIBTL";
-
-            ConfigManager.MongoDbConfiguration.DatabaseName = "WIMIBTL";
-
             var bootstrapper = new Bootstrapper(IocManager.Instance);
-
-            bootstrapper.IocManager.RegisterAssemblyByConvention(Assembly.GetExecutingAssembly(), new EfConventionalRegistrar());
-
-            bootstrapper.IocManager.RegisterAssemblyByConvention(Assembly.GetExecutingAssembly(), new MongoDbConventionalRegistrar());
 
             bootstrapper.Initialize();
 
+            bootstrapper.IocManager.RegisterAssemblyByConvention(Assembly.GetExecutingAssembly(), false, new EfConventionalRegistrar(), new MongoConventionalRegistrar());
+            
             bootstrapper.IocManager.IocContainer.Register(Component.For(typeof(AppService)).Named("AppService2"));
 
             var appService = bootstrapper.IocManager.IocContainer.Resolve<AppService>("AppService2");

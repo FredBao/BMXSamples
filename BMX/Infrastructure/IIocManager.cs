@@ -12,7 +12,7 @@
     {
         IWindsorContainer IocContainer { get; }
 
-        void RegisterAssemblyByConvention(Assembly assembly, IConventionalDependencyRegistrar registerer, bool installInstallers = false);
+        void RegisterAssemblyByConvention(Assembly assembly, bool installInstallers = false, params IConventionalDependencyRegistrar[] registerers);
 
         bool IsRegistered(Type type);
 

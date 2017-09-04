@@ -2,9 +2,9 @@
 {
     using System.Data.Entity;
 
-    public class BaseContext : DbContext
+    public class BaseDbContext : DbContext
     {
-        public BaseContext(string connectionStringOrName) : base(connectionStringOrName)
+        public BaseDbContext(string connectionStringOrName) : base(connectionStringOrName)
         {
         }
     }

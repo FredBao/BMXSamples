@@ -13,9 +13,9 @@
     public class EfRepository<TEntity, TPrimaryKey> : IRepository<TEntity, TPrimaryKey>
         where TEntity : class, IEntity<TPrimaryKey>
     {
-        private readonly BaseContext context;
+        private readonly BaseDbContext context;
 
-        public EfRepository(BaseContext context)
+        public EfRepository(BaseDbContext context)
         {
             this.context = context;
         }

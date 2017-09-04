@@ -4,7 +4,7 @@
     using MongoDB.Bson;
     using MongoDB.Driver;
 
-    public class Alarm : MongoDbEntity
+    public class Alarm : MongoEntity
     {
         public string Code { get; set; }
 

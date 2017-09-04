@@ -8,7 +8,7 @@
     public class EfRepository<TEntity> : EfRepository<TEntity, int>, IRepository<TEntity>
         where TEntity : class, IEntity<int>
     {
-        public EfRepository(BaseContext context) : base(context)
+        public EfRepository(BaseDbContext context) : base(context)
         {
         }
     }

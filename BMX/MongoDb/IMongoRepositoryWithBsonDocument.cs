@@ -7,7 +7,7 @@
     using MongoDB.Bson;
     using MongoDB.Driver;
 
-    public interface IMongoDbRepository<TEntity, TDocument> : IRepository
+    public interface IMongoRepository<TEntity, TDocument> : IRepository
         where TEntity : class
         where TDocument : BsonDocument
     {
@@ -32,7 +32,5 @@
         void UpdateOne(FilterDefinition<TDocument> filter, UpdateDefinition<TDocument> update);
 
         void UpdateMany(FilterDefinition<TDocument> filter, UpdateDefinition<TDocument> update);
-
-        IMongoCollection<TDocument> GetCollection(IMongoDatabase mongoDatabase);
     }
 }
