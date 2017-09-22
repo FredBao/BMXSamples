@@ -1,0 +1,5 @@
+D:\学习\BMXSamples\ProgramProvidePatternDemo\bin\Release\ProgramProvidePatternDemo.exe.config
+D:\学习\BMXSamples\ProgramProvidePatternDemo\bin\Release\ProgramProvidePatternDemo.exe
+D:\学习\BMXSamples\ProgramProvidePatternDemo\bin\Release\ProgramProvidePatternDemo.pdb
+D:\学习\BMXSamples\ProgramProvidePatternDemo\obj\Release\ProgramProvidePatternDemo.exe
+D:\学习\BMXSamples\ProgramProvidePatternDemo\obj\Release\ProgramProvidePatternDemo.pdb

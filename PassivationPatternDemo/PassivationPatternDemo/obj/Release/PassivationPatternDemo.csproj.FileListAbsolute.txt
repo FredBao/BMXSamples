@@ -1,0 +1,8 @@
+D:\学习\BMXSamples\PassivationPatternDemo\PassivationPatternDemo\bin\Release\PassivationPatternDemo.exe.config
+D:\学习\BMXSamples\PassivationPatternDemo\PassivationPatternDemo\bin\Release\PassivationPatternDemo.exe
+D:\学习\BMXSamples\PassivationPatternDemo\PassivationPatternDemo\bin\Release\PassivationPatternDemo.pdb
+D:\学习\BMXSamples\PassivationPatternDemo\PassivationPatternDemo\bin\Release\Common.dll
+D:\学习\BMXSamples\PassivationPatternDemo\PassivationPatternDemo\bin\Release\Common.pdb
+D:\学习\BMXSamples\PassivationPatternDemo\PassivationPatternDemo\obj\Release\PassivationPatternDemo.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\PassivationPatternDemo\PassivationPatternDemo\obj\Release\PassivationPatternDemo.exe
+D:\学习\BMXSamples\PassivationPatternDemo\PassivationPatternDemo\obj\Release\PassivationPatternDemo.pdb

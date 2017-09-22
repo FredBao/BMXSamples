@@ -1,0 +1,5 @@
+D:\学习\BMXSamples\ExtendedDLL\bin\Release\ExtendedDLL.dll
+D:\学习\BMXSamples\ExtendedDLL\bin\Release\ExtendedDLL.pdb
+D:\学习\BMXSamples\ExtendedDLL\obj\Release\ExtendedDLL.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\ExtendedDLL\obj\Release\ExtendedDLL.dll
+D:\学习\BMXSamples\ExtendedDLL\obj\Release\ExtendedDLL.pdb

@@ -8,3 +8,8 @@ D:\Learn\BMXSamples\InterfaceInheritance\bin\Debug\InterfaceInheritance.pdb
 D:\Learn\BMXSamples\InterfaceInheritance\obj\Debug\InterfaceInheritance.csprojResolveAssemblyReference.cache
 D:\Learn\BMXSamples\InterfaceInheritance\obj\Debug\InterfaceInheritance.exe
 D:\Learn\BMXSamples\InterfaceInheritance\obj\Debug\InterfaceInheritance.pdb
+D:\学习\BMXSamples\InterfaceInheritance\bin\Debug\InterfaceInheritance.exe
+D:\学习\BMXSamples\InterfaceInheritance\bin\Debug\InterfaceInheritance.pdb
+D:\学习\BMXSamples\InterfaceInheritance\obj\Debug\InterfaceInheritance.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\InterfaceInheritance\obj\Debug\InterfaceInheritance.exe
+D:\学习\BMXSamples\InterfaceInheritance\obj\Debug\InterfaceInheritance.pdb

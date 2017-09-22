@@ -1,0 +1,9 @@
+D:\学习\BMXSamples\Random\bin\Release\Random.exe.config
+D:\学习\BMXSamples\Random\bin\Release\Random.exe
+D:\学习\BMXSamples\Random\bin\Release\Random.pdb
+D:\学习\BMXSamples\Random\bin\Release\FanucToolManageDll.dll
+D:\学习\BMXSamples\Random\obj\Release\Random.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\Random\obj\Release\Random.exe
+D:\学习\BMXSamples\Random\obj\Release\Random.pdb
+D:\学习\BMXSamples\Random\bin\Release\System.Net.Http.dll
+D:\学习\BMXSamples\Random\bin\Release\System.Net.Http.xml

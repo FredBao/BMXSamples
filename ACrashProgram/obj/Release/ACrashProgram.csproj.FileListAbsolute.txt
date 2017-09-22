@@ -1,0 +1,5 @@
+D:\学习\BMXSamples\ACrashProgram\bin\Release\ACrashProgram.exe.config
+D:\学习\BMXSamples\ACrashProgram\bin\Release\ACrashProgram.exe
+D:\学习\BMXSamples\ACrashProgram\bin\Release\ACrashProgram.pdb
+D:\学习\BMXSamples\ACrashProgram\obj\Release\ACrashProgram.exe
+D:\学习\BMXSamples\ACrashProgram\obj\Release\ACrashProgram.pdb

@@ -1,0 +1,5 @@
+D:\学习\BMXSamples\TestConsole\bin\Release\TestConsole.exe
+D:\学习\BMXSamples\TestConsole\bin\Release\TestConsole.pdb
+D:\学习\BMXSamples\TestConsole\obj\Release\TestConsole.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\TestConsole\obj\Release\TestConsole.exe
+D:\学习\BMXSamples\TestConsole\obj\Release\TestConsole.pdb

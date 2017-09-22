@@ -1,0 +1,5 @@
+D:\学习\BMXSamples\EventBusPatternDemo\bin\Release\EventBusPatternDemo.exe.config
+D:\学习\BMXSamples\EventBusPatternDemo\bin\Release\EventBusPatternDemo.exe
+D:\学习\BMXSamples\EventBusPatternDemo\bin\Release\EventBusPatternDemo.pdb
+D:\学习\BMXSamples\EventBusPatternDemo\obj\Release\EventBusPatternDemo.exe
+D:\学习\BMXSamples\EventBusPatternDemo\obj\Release\EventBusPatternDemo.pdb

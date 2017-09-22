@@ -1,0 +1,5 @@
+D:\学习\BMXSamples\FluentProgramPattern\bin\Release\FluentProgramPattern.exe.config
+D:\学习\BMXSamples\FluentProgramPattern\bin\Release\FluentProgramPattern.exe
+D:\学习\BMXSamples\FluentProgramPattern\bin\Release\FluentProgramPattern.pdb
+D:\学习\BMXSamples\FluentProgramPattern\obj\Release\FluentProgramPattern.exe
+D:\学习\BMXSamples\FluentProgramPattern\obj\Release\FluentProgramPattern.pdb

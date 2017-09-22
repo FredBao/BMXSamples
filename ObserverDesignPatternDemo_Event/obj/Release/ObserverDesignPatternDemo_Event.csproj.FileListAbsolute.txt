@@ -1,0 +1,5 @@
+D:\学习\BMXSamples\ObserverDesignPatternDemo_Event\bin\Release\ObserverDesignPatternDemo_Event.exe.config
+D:\学习\BMXSamples\ObserverDesignPatternDemo_Event\bin\Release\ObserverDesignPatternDemo_Event.exe
+D:\学习\BMXSamples\ObserverDesignPatternDemo_Event\bin\Release\ObserverDesignPatternDemo_Event.pdb
+D:\学习\BMXSamples\ObserverDesignPatternDemo_Event\obj\Release\ObserverDesignPatternDemo_Event.exe
+D:\学习\BMXSamples\ObserverDesignPatternDemo_Event\obj\Release\ObserverDesignPatternDemo_Event.pdb

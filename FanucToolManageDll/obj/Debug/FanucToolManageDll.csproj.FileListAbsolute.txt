@@ -1,0 +1,10 @@
+D:\项目\mdc8.0 - 正兴轮毂\zheng-xin-run-gu\FanucToolManageDll\bin\Debug\FanucToolManageDll.dll
+D:\项目\mdc8.0 - 正兴轮毂\zheng-xin-run-gu\FanucToolManageDll\bin\Debug\FanucToolManageDll.pdb
+D:\项目\mdc8.0 - 正兴轮毂\zheng-xin-run-gu\FanucToolManageDll\obj\Debug\FanucToolManageDll.csprojResolveAssemblyReference.cache
+D:\项目\mdc8.0 - 正兴轮毂\zheng-xin-run-gu\FanucToolManageDll\obj\Debug\FanucToolManageDll.dll
+D:\项目\mdc8.0 - 正兴轮毂\zheng-xin-run-gu\FanucToolManageDll\obj\Debug\FanucToolManageDll.pdb
+D:\学习\BMXSamples\FanucToolManageDll\obj\Debug\FanucToolManageDll.dll
+D:\学习\BMXSamples\FanucToolManageDll\obj\Debug\FanucToolManageDll.pdb
+D:\学习\BMXSamples\FanucToolManageDll\bin\Debug\FanucToolManageDll.dll
+D:\学习\BMXSamples\FanucToolManageDll\bin\Debug\FanucToolManageDll.pdb
+D:\学习\BMXSamples\FanucToolManageDll\obj\Debug\FanucToolManageDll.csprojResolveAssemblyReference.cache

@@ -2,3 +2,8 @@ C:\Users\WimiDevs\Desktop\学习\BMXSamples\InterfaceInheritance\bin\Release\Int
 C:\Users\WimiDevs\Desktop\学习\BMXSamples\InterfaceInheritance\bin\Release\InterfaceInheritance.pdb
 C:\Users\WimiDevs\Desktop\学习\BMXSamples\InterfaceInheritance\obj\Release\InterfaceInheritance.exe
 C:\Users\WimiDevs\Desktop\学习\BMXSamples\InterfaceInheritance\obj\Release\InterfaceInheritance.pdb
+D:\学习\BMXSamples\InterfaceInheritance\bin\Release\InterfaceInheritance.exe
+D:\学习\BMXSamples\InterfaceInheritance\bin\Release\InterfaceInheritance.pdb
+D:\学习\BMXSamples\InterfaceInheritance\obj\Release\InterfaceInheritance.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\InterfaceInheritance\obj\Release\InterfaceInheritance.exe
+D:\学习\BMXSamples\InterfaceInheritance\obj\Release\InterfaceInheritance.pdb

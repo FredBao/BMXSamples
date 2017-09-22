@@ -1,0 +1,8 @@
+D:\学习\BMXSamples\T4Demo\bin\Release\T4Demo.exe.config
+D:\学习\BMXSamples\T4Demo\bin\Release\T4Demo.exe
+D:\学习\BMXSamples\T4Demo\bin\Release\T4Demo.pdb
+D:\学习\BMXSamples\T4Demo\bin\Release\Microsoft.VisualStudio.TextTemplating.10.0.dll
+D:\学习\BMXSamples\T4Demo\bin\Release\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+D:\学习\BMXSamples\T4Demo\obj\Release\T4Demo.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\T4Demo\obj\Release\T4Demo.exe
+D:\学习\BMXSamples\T4Demo\obj\Release\T4Demo.pdb

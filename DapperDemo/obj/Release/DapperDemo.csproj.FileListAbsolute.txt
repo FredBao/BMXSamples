@@ -1,0 +1,7 @@
+D:\学习\BMXSamples\DapperDemo\bin\Release\DapperDemo.exe
+D:\学习\BMXSamples\DapperDemo\bin\Release\DapperDemo.pdb
+D:\学习\BMXSamples\DapperDemo\bin\Release\Dapper.dll
+D:\学习\BMXSamples\DapperDemo\bin\Release\Dapper.xml
+D:\学习\BMXSamples\DapperDemo\obj\Release\DapperDemo.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\DapperDemo\obj\Release\DapperDemo.exe
+D:\学习\BMXSamples\DapperDemo\obj\Release\DapperDemo.pdb

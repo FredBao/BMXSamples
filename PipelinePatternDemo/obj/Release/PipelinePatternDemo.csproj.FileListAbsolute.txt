@@ -1,0 +1,6 @@
+D:\学习\BMXSamples\PipelinePatternDemo\bin\Release\PipelinePatternDemo.exe.config
+D:\学习\BMXSamples\PipelinePatternDemo\bin\Release\PipelinePatternDemo.exe
+D:\学习\BMXSamples\PipelinePatternDemo\bin\Release\PipelinePatternDemo.pdb
+D:\学习\BMXSamples\PipelinePatternDemo\obj\Release\PipelinePatternDemo.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\PipelinePatternDemo\obj\Release\PipelinePatternDemo.exe
+D:\学习\BMXSamples\PipelinePatternDemo\obj\Release\PipelinePatternDemo.pdb

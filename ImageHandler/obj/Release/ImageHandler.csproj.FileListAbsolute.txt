@@ -1,0 +1,8 @@
+D:\学习\BMXSamples\ImageHandler\bin\Release\ImageHandler.exe
+D:\学习\BMXSamples\ImageHandler\bin\Release\ImageHandler.pdb
+D:\学习\BMXSamples\ImageHandler\obj\Release\ImageHandler.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\ImageHandler\obj\Release\ImageHandler.ImageHandler.resources
+D:\学习\BMXSamples\ImageHandler\obj\Release\ImageHandler.Properties.Resources.resources
+D:\学习\BMXSamples\ImageHandler\obj\Release\ImageHandler.csproj.GenerateResource.Cache
+D:\学习\BMXSamples\ImageHandler\obj\Release\ImageHandler.exe
+D:\学习\BMXSamples\ImageHandler\obj\Release\ImageHandler.pdb

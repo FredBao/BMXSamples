@@ -1,0 +1,5 @@
+D:\学习\BMXSamples\CSharpExtensionMethodDemo\bin\Release\CSharpExtensionMethodDemo.exe.config
+D:\学习\BMXSamples\CSharpExtensionMethodDemo\bin\Release\CSharpExtensionMethodDemo.exe
+D:\学习\BMXSamples\CSharpExtensionMethodDemo\bin\Release\CSharpExtensionMethodDemo.pdb
+D:\学习\BMXSamples\CSharpExtensionMethodDemo\obj\Release\CSharpExtensionMethodDemo.exe
+D:\学习\BMXSamples\CSharpExtensionMethodDemo\obj\Release\CSharpExtensionMethodDemo.pdb

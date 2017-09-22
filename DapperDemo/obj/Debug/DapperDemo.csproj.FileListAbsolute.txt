@@ -12,3 +12,10 @@ D:\Learn\BMXSamples\DapperDemo\bin\Debug\Dapper.xml
 D:\Learn\BMXSamples\DapperDemo\obj\Debug\DapperDemo.csprojResolveAssemblyReference.cache
 D:\Learn\BMXSamples\DapperDemo\obj\Debug\DapperDemo.exe
 D:\Learn\BMXSamples\DapperDemo\obj\Debug\DapperDemo.pdb
+D:\学习\BMXSamples\DapperDemo\bin\Debug\DapperDemo.exe
+D:\学习\BMXSamples\DapperDemo\bin\Debug\DapperDemo.pdb
+D:\学习\BMXSamples\DapperDemo\bin\Debug\Dapper.dll
+D:\学习\BMXSamples\DapperDemo\bin\Debug\Dapper.xml
+D:\学习\BMXSamples\DapperDemo\obj\Debug\DapperDemo.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\DapperDemo\obj\Debug\DapperDemo.exe
+D:\学习\BMXSamples\DapperDemo\obj\Debug\DapperDemo.pdb

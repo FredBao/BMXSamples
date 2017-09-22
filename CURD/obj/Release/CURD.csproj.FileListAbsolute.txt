@@ -1,0 +1,11 @@
+D:\学习\BMXSamples\CURD\bin\Release\CURD.exe.config
+D:\学习\BMXSamples\CURD\bin\Release\CURD.exe
+D:\学习\BMXSamples\CURD\bin\Release\CURD.pdb
+D:\学习\BMXSamples\CURD\bin\Release\MongoDB.Bson.dll
+D:\学习\BMXSamples\CURD\bin\Release\MongoDB.Driver.Core.dll
+D:\学习\BMXSamples\CURD\bin\Release\MongoDB.Driver.dll
+D:\学习\BMXSamples\CURD\bin\Release\MongoDB.Bson.xml
+D:\学习\BMXSamples\CURD\bin\Release\MongoDB.Driver.xml
+D:\学习\BMXSamples\CURD\obj\Release\CURD.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\CURD\obj\Release\CURD.exe
+D:\学习\BMXSamples\CURD\obj\Release\CURD.pdb

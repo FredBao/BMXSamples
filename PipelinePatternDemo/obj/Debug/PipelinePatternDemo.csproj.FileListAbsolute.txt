@@ -14,3 +14,8 @@ D:\Learn\BMXSamples\PipelinePatternDemo\bin\Debug\PipelinePatternDemo.exe
 D:\Learn\BMXSamples\PipelinePatternDemo\bin\Debug\PipelinePatternDemo.pdb
 D:\Learn\BMXSamples\PipelinePatternDemo\obj\Debug\PipelinePatternDemo.exe
 D:\Learn\BMXSamples\PipelinePatternDemo\obj\Debug\PipelinePatternDemo.pdb
+D:\学习\BMXSamples\PipelinePatternDemo\bin\Debug\PipelinePatternDemo.exe.config
+D:\学习\BMXSamples\PipelinePatternDemo\bin\Debug\PipelinePatternDemo.exe
+D:\学习\BMXSamples\PipelinePatternDemo\bin\Debug\PipelinePatternDemo.pdb
+D:\学习\BMXSamples\PipelinePatternDemo\obj\Debug\PipelinePatternDemo.exe
+D:\学习\BMXSamples\PipelinePatternDemo\obj\Debug\PipelinePatternDemo.pdb

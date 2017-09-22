@@ -1,0 +1,5 @@
+D:\学习\BMXSamples\FactoryDesignPatternDemo\bin\Release\FactoryDesignPatternDemo.exe.config
+D:\学习\BMXSamples\FactoryDesignPatternDemo\bin\Release\FactoryDesignPatternDemo.exe
+D:\学习\BMXSamples\FactoryDesignPatternDemo\bin\Release\FactoryDesignPatternDemo.pdb
+D:\学习\BMXSamples\FactoryDesignPatternDemo\obj\Release\FactoryDesignPatternDemo.exe
+D:\学习\BMXSamples\FactoryDesignPatternDemo\obj\Release\FactoryDesignPatternDemo.pdb

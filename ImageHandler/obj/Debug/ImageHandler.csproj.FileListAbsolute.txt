@@ -14,3 +14,11 @@ D:\Learn\BMXSamples\ImageHandler\obj\Debug\ImageHandler.Properties.Resources.res
 D:\Learn\BMXSamples\ImageHandler\obj\Debug\ImageHandler.csproj.GenerateResource.Cache
 D:\Learn\BMXSamples\ImageHandler\obj\Debug\ImageHandler.exe
 D:\Learn\BMXSamples\ImageHandler\obj\Debug\ImageHandler.pdb
+D:\学习\BMXSamples\ImageHandler\bin\Debug\ImageHandler.exe
+D:\学习\BMXSamples\ImageHandler\bin\Debug\ImageHandler.pdb
+D:\学习\BMXSamples\ImageHandler\obj\Debug\ImageHandler.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\ImageHandler\obj\Debug\ImageHandler.ImageHandler.resources
+D:\学习\BMXSamples\ImageHandler\obj\Debug\ImageHandler.Properties.Resources.resources
+D:\学习\BMXSamples\ImageHandler\obj\Debug\ImageHandler.csproj.GenerateResource.Cache
+D:\学习\BMXSamples\ImageHandler\obj\Debug\ImageHandler.exe
+D:\学习\BMXSamples\ImageHandler\obj\Debug\ImageHandler.pdb

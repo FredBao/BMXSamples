@@ -1,0 +1,5 @@
+D:\学习\BMXSamples\PartialClassAndMethodDemo\bin\Release\PartialClassAndMethodDemo.exe.config
+D:\学习\BMXSamples\PartialClassAndMethodDemo\bin\Release\PartialClassAndMethodDemo.exe
+D:\学习\BMXSamples\PartialClassAndMethodDemo\bin\Release\PartialClassAndMethodDemo.pdb
+D:\学习\BMXSamples\PartialClassAndMethodDemo\obj\Release\PartialClassAndMethodDemo.exe
+D:\学习\BMXSamples\PartialClassAndMethodDemo\obj\Release\PartialClassAndMethodDemo.pdb

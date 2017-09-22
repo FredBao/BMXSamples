@@ -1,0 +1,5 @@
+D:\学习\BMXSamples\DistributeExtensionPatternDemo\bin\Release\DistributeExtensionPatternDemo.exe.config
+D:\学习\BMXSamples\DistributeExtensionPatternDemo\bin\Release\DistributeExtensionPatternDemo.exe
+D:\学习\BMXSamples\DistributeExtensionPatternDemo\bin\Release\DistributeExtensionPatternDemo.pdb
+D:\学习\BMXSamples\DistributeExtensionPatternDemo\obj\Release\DistributeExtensionPatternDemo.exe
+D:\学习\BMXSamples\DistributeExtensionPatternDemo\obj\Release\DistributeExtensionPatternDemo.pdb

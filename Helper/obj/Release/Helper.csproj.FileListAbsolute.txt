@@ -1,0 +1,4 @@
+D:\学习\BMXSamples\Helper\bin\Release\Helper.dll
+D:\学习\BMXSamples\Helper\bin\Release\Helper.pdb
+D:\学习\BMXSamples\Helper\obj\Release\Helper.dll
+D:\学习\BMXSamples\Helper\obj\Release\Helper.pdb

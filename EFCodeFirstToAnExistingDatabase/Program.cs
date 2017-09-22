@@ -3,7 +3,6 @@
     using System;
     using System.Reflection;
 
-    using Bmx.Abp.Configuration;
     using Bmx.Abp.EntityFramework;
     using Bmx.Abp.Infrastructure;
     using Bmx.Abp.MongoDb;

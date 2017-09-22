@@ -1,0 +1,12 @@
+D:\学习\BMXSamples\TablePerHierarchy\bin\Release\TablePerHierarchy.exe.config
+D:\学习\BMXSamples\TablePerHierarchy\bin\Release\TablePerHierarchy.exe
+D:\学习\BMXSamples\TablePerHierarchy\bin\Release\TablePerHierarchy.pdb
+D:\学习\BMXSamples\TablePerHierarchy\bin\Release\EntityFramework.dll
+D:\学习\BMXSamples\TablePerHierarchy\bin\Release\EntityFramework.SqlServer.dll
+D:\学习\BMXSamples\TablePerHierarchy\bin\Release\EntityFramework.xml
+D:\学习\BMXSamples\TablePerHierarchy\bin\Release\EntityFramework.SqlServer.xml
+D:\学习\BMXSamples\TablePerHierarchy\bin\Release\zh-Hans\EntityFramework.resources.dll
+D:\学习\BMXSamples\TablePerHierarchy\bin\Release\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\学习\BMXSamples\TablePerHierarchy\obj\Release\TablePerHierarchy.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\TablePerHierarchy\obj\Release\TablePerHierarchy.exe
+D:\学习\BMXSamples\TablePerHierarchy\obj\Release\TablePerHierarchy.pdb

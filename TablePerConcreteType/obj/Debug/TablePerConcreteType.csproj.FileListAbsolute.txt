@@ -10,3 +10,15 @@ D:\Learn\BMXSamples\TablePerConcreteType\bin\Debug\zh-Hans\EntityFramework.SqlSe
 D:\Learn\BMXSamples\TablePerConcreteType\obj\Debug\TablePerConcreteType.csprojResolveAssemblyReference.cache
 D:\Learn\BMXSamples\TablePerConcreteType\obj\Debug\TablePerConcreteType.exe
 D:\Learn\BMXSamples\TablePerConcreteType\obj\Debug\TablePerConcreteType.pdb
+D:\学习\BMXSamples\TablePerConcreteType\bin\Debug\TablePerConcreteType.exe.config
+D:\学习\BMXSamples\TablePerConcreteType\bin\Debug\TablePerConcreteType.exe
+D:\学习\BMXSamples\TablePerConcreteType\bin\Debug\TablePerConcreteType.pdb
+D:\学习\BMXSamples\TablePerConcreteType\bin\Debug\EntityFramework.dll
+D:\学习\BMXSamples\TablePerConcreteType\bin\Debug\EntityFramework.SqlServer.dll
+D:\学习\BMXSamples\TablePerConcreteType\bin\Debug\EntityFramework.xml
+D:\学习\BMXSamples\TablePerConcreteType\bin\Debug\EntityFramework.SqlServer.xml
+D:\学习\BMXSamples\TablePerConcreteType\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\学习\BMXSamples\TablePerConcreteType\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\学习\BMXSamples\TablePerConcreteType\obj\Debug\TablePerConcreteType.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\TablePerConcreteType\obj\Debug\TablePerConcreteType.exe
+D:\学习\BMXSamples\TablePerConcreteType\obj\Debug\TablePerConcreteType.pdb

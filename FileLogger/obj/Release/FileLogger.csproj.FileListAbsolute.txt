@@ -4,3 +4,10 @@ C:\Users\WimiDevs\Desktop\学习\BMXSamples\FileLogger\bin\Release\log4net.dll
 C:\Users\WimiDevs\Desktop\学习\BMXSamples\FileLogger\bin\Release\log4net.xml
 C:\Users\WimiDevs\Desktop\学习\BMXSamples\FileLogger\obj\Release\FileLogger.exe
 C:\Users\WimiDevs\Desktop\学习\BMXSamples\FileLogger\obj\Release\FileLogger.pdb
+D:\学习\BMXSamples\FileLogger\bin\Release\FileLogger.exe
+D:\学习\BMXSamples\FileLogger\bin\Release\FileLogger.pdb
+D:\学习\BMXSamples\FileLogger\bin\Release\log4net.dll
+D:\学习\BMXSamples\FileLogger\bin\Release\log4net.xml
+D:\学习\BMXSamples\FileLogger\obj\Release\FileLogger.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\FileLogger\obj\Release\FileLogger.exe
+D:\学习\BMXSamples\FileLogger\obj\Release\FileLogger.pdb

@@ -1,0 +1,5 @@
+D:\学习\BMXSamples\WindbgTestProgram\bin\Debug\WindbgTestProgram.exe.config
+D:\学习\BMXSamples\WindbgTestProgram\bin\Debug\WindbgTestProgram.exe
+D:\学习\BMXSamples\WindbgTestProgram\bin\Debug\WindbgTestProgram.pdb
+D:\学习\BMXSamples\WindbgTestProgram\obj\Debug\WindbgTestProgram.exe
+D:\学习\BMXSamples\WindbgTestProgram\obj\Debug\WindbgTestProgram.pdb

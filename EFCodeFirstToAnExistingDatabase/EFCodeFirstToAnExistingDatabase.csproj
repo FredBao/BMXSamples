@@ -74,6 +74,9 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
+    <Reference Include="WIMI.BTL.EntityFramework">
+      <HintPath>..\..\..\项目\mdc8.0 - 正兴轮毂\正兴轮毂更新 - 20170911\bin\WIMI.BTL.EntityFramework.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Alarm.cs" />

@@ -1,0 +1,5 @@
+D:\学习\BMXSamples\AHangProgram\bin\Release\AHangProgram.exe.config
+D:\学习\BMXSamples\AHangProgram\bin\Release\AHangProgram.exe
+D:\学习\BMXSamples\AHangProgram\bin\Release\AHangProgram.pdb
+D:\学习\BMXSamples\AHangProgram\obj\Release\AHangProgram.exe
+D:\学习\BMXSamples\AHangProgram\obj\Release\AHangProgram.pdb

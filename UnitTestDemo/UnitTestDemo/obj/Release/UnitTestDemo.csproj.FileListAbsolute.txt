@@ -1,0 +1,6 @@
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemo\bin\Release\UnitTestDemo.exe.config
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemo\bin\Release\UnitTestDemo.exe
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemo\bin\Release\UnitTestDemo.pdb
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemo\obj\Release\UnitTestDemo.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemo\obj\Release\UnitTestDemo.exe
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemo\obj\Release\UnitTestDemo.pdb

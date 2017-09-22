@@ -1,0 +1,5 @@
+D:\学习\BMXSamples\PassivationPatternDemo\Common\bin\Release\Common.dll
+D:\学习\BMXSamples\PassivationPatternDemo\Common\bin\Release\Common.pdb
+D:\学习\BMXSamples\PassivationPatternDemo\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\PassivationPatternDemo\Common\obj\Release\Common.dll
+D:\学习\BMXSamples\PassivationPatternDemo\Common\obj\Release\Common.pdb

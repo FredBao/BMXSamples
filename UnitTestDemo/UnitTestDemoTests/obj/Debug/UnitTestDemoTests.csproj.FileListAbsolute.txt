@@ -24,3 +24,12 @@ D:\Learn\BMXSamples\UnitTestDemo\UnitTestDemoTests\bin\Debug\zh-Hans\Microsoft.V
 D:\Learn\BMXSamples\UnitTestDemo\UnitTestDemoTests\obj\Debug\UnitTestDemoTests.csprojResolveAssemblyReference.cache
 D:\Learn\BMXSamples\UnitTestDemo\UnitTestDemoTests\obj\Debug\UnitTestDemoTests.dll
 D:\Learn\BMXSamples\UnitTestDemo\UnitTestDemoTests\obj\Debug\UnitTestDemoTests.pdb
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemoTests\bin\Debug\UnitTestDemoTests.dll
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemoTests\bin\Debug\UnitTestDemoTests.pdb
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemoTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemoTests\bin\Debug\UnitTestDemo.exe
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemoTests\bin\Debug\UnitTestDemo.pdb
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemoTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemoTests\obj\Debug\UnitTestDemoTests.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemoTests\obj\Debug\UnitTestDemoTests.dll
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemoTests\obj\Debug\UnitTestDemoTests.pdb

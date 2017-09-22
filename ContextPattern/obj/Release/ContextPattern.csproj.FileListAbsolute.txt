@@ -1,0 +1,5 @@
+D:\学习\BMXSamples\ContextPattern\bin\Release\ContextPattern.exe.config
+D:\学习\BMXSamples\ContextPattern\bin\Release\ContextPattern.exe
+D:\学习\BMXSamples\ContextPattern\bin\Release\ContextPattern.pdb
+D:\学习\BMXSamples\ContextPattern\obj\Release\ContextPattern.exe
+D:\学习\BMXSamples\ContextPattern\obj\Release\ContextPattern.pdb

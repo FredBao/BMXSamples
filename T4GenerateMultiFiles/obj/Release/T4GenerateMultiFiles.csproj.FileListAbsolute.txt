@@ -1,0 +1,8 @@
+D:\学习\BMXSamples\T4GenerateMultiFiles\bin\Release\T4GenerateMultiFiles.exe.config
+D:\学习\BMXSamples\T4GenerateMultiFiles\bin\Release\T4GenerateMultiFiles.exe
+D:\学习\BMXSamples\T4GenerateMultiFiles\bin\Release\T4GenerateMultiFiles.pdb
+D:\学习\BMXSamples\T4GenerateMultiFiles\bin\Release\Microsoft.VisualStudio.TextTemplating.10.0.dll
+D:\学习\BMXSamples\T4GenerateMultiFiles\bin\Release\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+D:\学习\BMXSamples\T4GenerateMultiFiles\obj\Release\T4GenerateMultiFiles.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\T4GenerateMultiFiles\obj\Release\T4GenerateMultiFiles.exe
+D:\学习\BMXSamples\T4GenerateMultiFiles\obj\Release\T4GenerateMultiFiles.pdb

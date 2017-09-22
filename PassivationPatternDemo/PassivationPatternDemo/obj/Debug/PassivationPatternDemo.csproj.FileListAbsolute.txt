@@ -22,3 +22,11 @@ D:\Learn\BMXSamples\PassivationPatternDemo\PassivationPatternDemo\bin\Debug\Comm
 D:\Learn\BMXSamples\PassivationPatternDemo\PassivationPatternDemo\obj\Debug\PassivationPatternDemo.csprojResolveAssemblyReference.cache
 D:\Learn\BMXSamples\PassivationPatternDemo\PassivationPatternDemo\obj\Debug\PassivationPatternDemo.exe
 D:\Learn\BMXSamples\PassivationPatternDemo\PassivationPatternDemo\obj\Debug\PassivationPatternDemo.pdb
+D:\学习\BMXSamples\PassivationPatternDemo\PassivationPatternDemo\bin\Debug\PassivationPatternDemo.exe.config
+D:\学习\BMXSamples\PassivationPatternDemo\PassivationPatternDemo\bin\Debug\PassivationPatternDemo.exe
+D:\学习\BMXSamples\PassivationPatternDemo\PassivationPatternDemo\bin\Debug\PassivationPatternDemo.pdb
+D:\学习\BMXSamples\PassivationPatternDemo\PassivationPatternDemo\bin\Debug\Common.dll
+D:\学习\BMXSamples\PassivationPatternDemo\PassivationPatternDemo\bin\Debug\Common.pdb
+D:\学习\BMXSamples\PassivationPatternDemo\PassivationPatternDemo\obj\Debug\PassivationPatternDemo.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\PassivationPatternDemo\PassivationPatternDemo\obj\Debug\PassivationPatternDemo.exe
+D:\学习\BMXSamples\PassivationPatternDemo\PassivationPatternDemo\obj\Debug\PassivationPatternDemo.pdb

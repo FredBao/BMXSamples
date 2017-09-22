@@ -1,0 +1,10 @@
+D:\学习\BMXSamples\ExploringCastleWindsor\bin\Release\ExploringCastleWindsor.exe.config
+D:\学习\BMXSamples\ExploringCastleWindsor\bin\Release\ExploringCastleWindsor.exe
+D:\学习\BMXSamples\ExploringCastleWindsor\bin\Release\ExploringCastleWindsor.pdb
+D:\学习\BMXSamples\ExploringCastleWindsor\bin\Release\Castle.Core.dll
+D:\学习\BMXSamples\ExploringCastleWindsor\bin\Release\Castle.Windsor.dll
+D:\学习\BMXSamples\ExploringCastleWindsor\bin\Release\Castle.Core.xml
+D:\学习\BMXSamples\ExploringCastleWindsor\bin\Release\Castle.Windsor.xml
+D:\学习\BMXSamples\ExploringCastleWindsor\obj\Release\ExploringCastleWindsor.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\ExploringCastleWindsor\obj\Release\ExploringCastleWindsor.exe
+D:\学习\BMXSamples\ExploringCastleWindsor\obj\Release\ExploringCastleWindsor.pdb

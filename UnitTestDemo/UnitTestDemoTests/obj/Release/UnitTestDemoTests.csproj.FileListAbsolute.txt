@@ -1,0 +1,9 @@
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemoTests\bin\Release\UnitTestDemoTests.dll
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemoTests\bin\Release\UnitTestDemoTests.pdb
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemoTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemoTests\bin\Release\UnitTestDemo.exe
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemoTests\bin\Release\UnitTestDemo.pdb
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemoTests\bin\Release\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemoTests\obj\Release\UnitTestDemoTests.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemoTests\obj\Release\UnitTestDemoTests.dll
+D:\学习\BMXSamples\UnitTestDemo\UnitTestDemoTests\obj\Release\UnitTestDemoTests.pdb

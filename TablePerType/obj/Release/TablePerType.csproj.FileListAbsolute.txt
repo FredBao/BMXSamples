@@ -1,0 +1,12 @@
+D:\学习\BMXSamples\TablePerType\bin\Release\TablePerType.exe.config
+D:\学习\BMXSamples\TablePerType\bin\Release\TablePerType.exe
+D:\学习\BMXSamples\TablePerType\bin\Release\TablePerType.pdb
+D:\学习\BMXSamples\TablePerType\bin\Release\EntityFramework.dll
+D:\学习\BMXSamples\TablePerType\bin\Release\EntityFramework.SqlServer.dll
+D:\学习\BMXSamples\TablePerType\bin\Release\EntityFramework.xml
+D:\学习\BMXSamples\TablePerType\bin\Release\EntityFramework.SqlServer.xml
+D:\学习\BMXSamples\TablePerType\bin\Release\zh-Hans\EntityFramework.resources.dll
+D:\学习\BMXSamples\TablePerType\bin\Release\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\学习\BMXSamples\TablePerType\obj\Release\TablePerType.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\TablePerType\obj\Release\TablePerType.exe
+D:\学习\BMXSamples\TablePerType\obj\Release\TablePerType.pdb

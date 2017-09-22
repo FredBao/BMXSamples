@@ -1,0 +1,8 @@
+D:\学习\BMXSamples\Sample-ShadowCopy\bin\Release\Sample-ShadowCopy.exe
+D:\学习\BMXSamples\Sample-ShadowCopy\bin\Release\Sample-ShadowCopy.pdb
+D:\学习\BMXSamples\Sample-ShadowCopy\obj\Release\Sample-ShadowCopy.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\Sample-ShadowCopy\obj\Release\Sample_ShadowCopy.Form1.resources
+D:\学习\BMXSamples\Sample-ShadowCopy\obj\Release\Sample_ShadowCopy.Properties.Resources.resources
+D:\学习\BMXSamples\Sample-ShadowCopy\obj\Release\Sample-ShadowCopy.csproj.GenerateResource.Cache
+D:\学习\BMXSamples\Sample-ShadowCopy\obj\Release\Sample-ShadowCopy.exe
+D:\学习\BMXSamples\Sample-ShadowCopy\obj\Release\Sample-ShadowCopy.pdb

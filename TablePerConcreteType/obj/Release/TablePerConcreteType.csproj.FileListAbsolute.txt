@@ -1,0 +1,11 @@
+D:\学习\BMXSamples\TablePerConcreteType\bin\Release\TablePerConcreteType.exe.config
+D:\学习\BMXSamples\TablePerConcreteType\bin\Release\TablePerConcreteType.exe
+D:\学习\BMXSamples\TablePerConcreteType\bin\Release\TablePerConcreteType.pdb
+D:\学习\BMXSamples\TablePerConcreteType\bin\Release\EntityFramework.dll
+D:\学习\BMXSamples\TablePerConcreteType\bin\Release\EntityFramework.SqlServer.dll
+D:\学习\BMXSamples\TablePerConcreteType\bin\Release\EntityFramework.xml
+D:\学习\BMXSamples\TablePerConcreteType\bin\Release\EntityFramework.SqlServer.xml
+D:\学习\BMXSamples\TablePerConcreteType\bin\Release\zh-Hans\EntityFramework.resources.dll
+D:\学习\BMXSamples\TablePerConcreteType\bin\Release\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\学习\BMXSamples\TablePerConcreteType\obj\Release\TablePerConcreteType.exe
+D:\学习\BMXSamples\TablePerConcreteType\obj\Release\TablePerConcreteType.pdb

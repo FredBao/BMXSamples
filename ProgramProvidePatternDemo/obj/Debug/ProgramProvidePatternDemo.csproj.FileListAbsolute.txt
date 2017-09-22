@@ -16,3 +16,9 @@ D:\Learn\BMXSamples\ProgramProvidePatternDemo\bin\Debug\ProgramProvidePatternDem
 D:\Learn\BMXSamples\ProgramProvidePatternDemo\obj\Debug\ProgramProvidePatternDemo.csprojResolveAssemblyReference.cache
 D:\Learn\BMXSamples\ProgramProvidePatternDemo\obj\Debug\ProgramProvidePatternDemo.exe
 D:\Learn\BMXSamples\ProgramProvidePatternDemo\obj\Debug\ProgramProvidePatternDemo.pdb
+D:\学习\BMXSamples\ProgramProvidePatternDemo\bin\Debug\ProgramProvidePatternDemo.exe.config
+D:\学习\BMXSamples\ProgramProvidePatternDemo\bin\Debug\ProgramProvidePatternDemo.exe
+D:\学习\BMXSamples\ProgramProvidePatternDemo\bin\Debug\ProgramProvidePatternDemo.pdb
+D:\学习\BMXSamples\ProgramProvidePatternDemo\obj\Debug\ProgramProvidePatternDemo.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\ProgramProvidePatternDemo\obj\Debug\ProgramProvidePatternDemo.exe
+D:\学习\BMXSamples\ProgramProvidePatternDemo\obj\Debug\ProgramProvidePatternDemo.pdb

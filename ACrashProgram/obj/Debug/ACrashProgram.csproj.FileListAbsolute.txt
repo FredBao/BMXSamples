@@ -4,3 +4,9 @@ D:\Learn\BMXSamples\ACrashProgram\bin\Debug\ACrashProgram.pdb
 D:\Learn\BMXSamples\ACrashProgram\obj\Debug\ACrashProgram.exe
 D:\Learn\BMXSamples\ACrashProgram\obj\Debug\ACrashProgram.pdb
 D:\Learn\BMXSamples\ACrashProgram\obj\Debug\ACrashProgram.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\ACrashProgram\bin\Debug\ACrashProgram.exe.config
+D:\学习\BMXSamples\ACrashProgram\bin\Debug\ACrashProgram.exe
+D:\学习\BMXSamples\ACrashProgram\bin\Debug\ACrashProgram.pdb
+D:\学习\BMXSamples\ACrashProgram\obj\Debug\ACrashProgram.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\ACrashProgram\obj\Debug\ACrashProgram.exe
+D:\学习\BMXSamples\ACrashProgram\obj\Debug\ACrashProgram.pdb

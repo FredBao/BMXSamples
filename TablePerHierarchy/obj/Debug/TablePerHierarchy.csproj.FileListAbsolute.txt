@@ -10,3 +10,15 @@ D:\Learn\BMXSamples\TablePerHierarchy\bin\Debug\zh-Hans\EntityFramework.SqlServe
 D:\Learn\BMXSamples\TablePerHierarchy\obj\Debug\TablePerHierarchy.csprojResolveAssemblyReference.cache
 D:\Learn\BMXSamples\TablePerHierarchy\obj\Debug\TablePerHierarchy.exe
 D:\Learn\BMXSamples\TablePerHierarchy\obj\Debug\TablePerHierarchy.pdb
+D:\学习\BMXSamples\TablePerHierarchy\bin\Debug\TablePerHierarchy.exe.config
+D:\学习\BMXSamples\TablePerHierarchy\bin\Debug\TablePerHierarchy.exe
+D:\学习\BMXSamples\TablePerHierarchy\bin\Debug\TablePerHierarchy.pdb
+D:\学习\BMXSamples\TablePerHierarchy\bin\Debug\EntityFramework.dll
+D:\学习\BMXSamples\TablePerHierarchy\bin\Debug\EntityFramework.SqlServer.dll
+D:\学习\BMXSamples\TablePerHierarchy\bin\Debug\EntityFramework.xml
+D:\学习\BMXSamples\TablePerHierarchy\bin\Debug\EntityFramework.SqlServer.xml
+D:\学习\BMXSamples\TablePerHierarchy\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\学习\BMXSamples\TablePerHierarchy\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\学习\BMXSamples\TablePerHierarchy\obj\Debug\TablePerHierarchy.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\TablePerHierarchy\obj\Debug\TablePerHierarchy.exe
+D:\学习\BMXSamples\TablePerHierarchy\obj\Debug\TablePerHierarchy.pdb

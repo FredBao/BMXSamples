@@ -10,3 +10,15 @@ D:\Learn\BMXSamples\TablePerType\bin\Debug\zh-Hans\EntityFramework.SqlServer.res
 D:\Learn\BMXSamples\TablePerType\obj\Debug\TablePerType.csprojResolveAssemblyReference.cache
 D:\Learn\BMXSamples\TablePerType\obj\Debug\TablePerType.exe
 D:\Learn\BMXSamples\TablePerType\obj\Debug\TablePerType.pdb
+D:\学习\BMXSamples\TablePerType\bin\Debug\TablePerType.exe.config
+D:\学习\BMXSamples\TablePerType\bin\Debug\TablePerType.exe
+D:\学习\BMXSamples\TablePerType\bin\Debug\TablePerType.pdb
+D:\学习\BMXSamples\TablePerType\bin\Debug\EntityFramework.dll
+D:\学习\BMXSamples\TablePerType\bin\Debug\EntityFramework.SqlServer.dll
+D:\学习\BMXSamples\TablePerType\bin\Debug\EntityFramework.xml
+D:\学习\BMXSamples\TablePerType\bin\Debug\EntityFramework.SqlServer.xml
+D:\学习\BMXSamples\TablePerType\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\学习\BMXSamples\TablePerType\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\学习\BMXSamples\TablePerType\obj\Debug\TablePerType.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\TablePerType\obj\Debug\TablePerType.exe
+D:\学习\BMXSamples\TablePerType\obj\Debug\TablePerType.pdb

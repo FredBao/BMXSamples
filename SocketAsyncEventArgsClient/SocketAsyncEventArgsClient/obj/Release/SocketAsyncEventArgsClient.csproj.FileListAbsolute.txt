@@ -1,0 +1,5 @@
+D:\学习\BMXSamples\SocketAsyncEventArgsClient\SocketAsyncEventArgsClient\bin\Release\SocketAsyncEventArgsClient.exe.config
+D:\学习\BMXSamples\SocketAsyncEventArgsClient\SocketAsyncEventArgsClient\bin\Release\SocketAsyncEventArgsClient.exe
+D:\学习\BMXSamples\SocketAsyncEventArgsClient\SocketAsyncEventArgsClient\bin\Release\SocketAsyncEventArgsClient.pdb
+D:\学习\BMXSamples\SocketAsyncEventArgsClient\SocketAsyncEventArgsClient\obj\Release\SocketAsyncEventArgsClient.exe
+D:\学习\BMXSamples\SocketAsyncEventArgsClient\SocketAsyncEventArgsClient\obj\Release\SocketAsyncEventArgsClient.pdb
