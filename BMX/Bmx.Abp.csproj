@@ -103,10 +103,13 @@
     <Compile Include="EntityFramework\EfRepositoryOfTEntity.cs" />
     <Compile Include="EntityFramework\EfConventionalRegistrar.cs" />
     <Compile Include="Infrastructure\ConventionalRegistrationContext.cs" />
+    <Compile Include="Infrastructure\AppConventionalRegistrar.cs" />
+    <Compile Include="Infrastructure\IApplicationService.cs" />
     <Compile Include="Infrastructure\IConventionalDependencyRegistrar.cs" />
     <Compile Include="Infrastructure\IConventionalRegistrationContext.cs" />
     <Compile Include="Infrastructure\IIocManager.cs" />
-    <Compile Include="Installers\LoggerInstallers.cs" />
+    <Compile Include="Installers\ApplicationServiceInstaller.cs" />
+    <Compile Include="Installers\LoggerInstaller.cs" />
     <Compile Include="Installers\RepositoriesInstaller.cs" />
     <Compile Include="Infrastructure\IocManager.cs" />
     <Compile Include="Infrastructure\ITransientDependency.cs" />

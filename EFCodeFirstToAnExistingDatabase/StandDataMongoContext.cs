@@ -4,7 +4,7 @@
 
     public class StandDataMongoContext : MongoDbContext
     {
-        public StandDataMongoContext() : base("mongodb://btlsystem:123qwe@192.168.0.108:27017/WIMIBTL", "WIMIBTL")
+        public StandDataMongoContext() : base("mongodb://btlsystem:123qwe@127.0.0.1:27017/WIMIBTL", "WIMIBTL")
         {
         }
     }

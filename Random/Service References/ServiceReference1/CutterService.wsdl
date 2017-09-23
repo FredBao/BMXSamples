@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="CutterService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:8088/CutterService?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:8088/CutterService?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:8088/CutterService?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/WIMI.BTL.CutterService.Cutter.Dto" />
+      <xsd:import schemaLocation="http://localhost:8088/CutterService?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/FanucToolManageDll" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="ICutterService_GetThresholdValue_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetThresholdValue" />
+  </wsdl:message>
+  <wsdl:message name="ICutterService_GetThresholdValue_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetThresholdValueResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICutterService_GetThresholdValue2_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetThresholdValue2" />
+  </wsdl:message>
+  <wsdl:message name="ICutterService_GetThresholdValue2_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetThresholdValue2Response" />
+  </wsdl:message>
+  <wsdl:message name="ICutterService_GetThresholdValue3_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetThresholdValue3" />
+  </wsdl:message>
+  <wsdl:message name="ICutterService_GetThresholdValue3_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetThresholdValue3Response" />
+  </wsdl:message>
+  <wsdl:message name="ICutterService_GetCutterCompensationData_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCutterCompensationData" />
+  </wsdl:message>
+  <wsdl:message name="ICutterService_GetCutterCompensationData_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCutterCompensationDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICutterService_UpdateCutterCompensation_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateCutterCompensation" />
+  </wsdl:message>
+  <wsdl:message name="ICutterService_UpdateCutterCompensation_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateCutterCompensationResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICutterService_GetAllToolLifeInfo_T_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllToolLifeInfo_T" />
+  </wsdl:message>
+  <wsdl:message name="ICutterService_GetAllToolLifeInfo_T_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllToolLifeInfo_TResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ICutterService">
+    <wsdl:operation name="GetThresholdValue">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICutterService/GetThresholdValue" message="tns:ICutterService_GetThresholdValue_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICutterService/GetThresholdValueResponse" message="tns:ICutterService_GetThresholdValue_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetThresholdValue2">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICutterService/GetThresholdValue2" message="tns:ICutterService_GetThresholdValue2_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICutterService/GetThresholdValue2Response" message="tns:ICutterService_GetThresholdValue2_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetThresholdValue3">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICutterService/GetThresholdValue3" message="tns:ICutterService_GetThresholdValue3_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICutterService/GetThresholdValue3Response" message="tns:ICutterService_GetThresholdValue3_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCutterCompensationData">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICutterService/GetCutterCompensationData" message="tns:ICutterService_GetCutterCompensationData_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICutterService/GetCutterCompensationDataResponse" message="tns:ICutterService_GetCutterCompensationData_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCutterCompensation">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICutterService/UpdateCutterCompensation" message="tns:ICutterService_UpdateCutterCompensation_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICutterService/UpdateCutterCompensationResponse" message="tns:ICutterService_UpdateCutterCompensation_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllToolLifeInfo_T">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICutterService/GetAllToolLifeInfo_T" message="tns:ICutterService_GetAllToolLifeInfo_T_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICutterService/GetAllToolLifeInfo_TResponse" message="tns:ICutterService_GetAllToolLifeInfo_T_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_ICutterService" type="tns:ICutterService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetThresholdValue">
+      <soap:operation soapAction="http://tempuri.org/ICutterService/GetThresholdValue" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetThresholdValue2">
+      <soap:operation soapAction="http://tempuri.org/ICutterService/GetThresholdValue2" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetThresholdValue3">
+      <soap:operation soapAction="http://tempuri.org/ICutterService/GetThresholdValue3" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCutterCompensationData">
+      <soap:operation soapAction="http://tempuri.org/ICutterService/GetCutterCompensationData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCutterCompensation">
+      <soap:operation soapAction="http://tempuri.org/ICutterService/UpdateCutterCompensation" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllToolLifeInfo_T">
+      <soap:operation soapAction="http://tempuri.org/ICutterService/GetAllToolLifeInfo_T" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="CutterService">
+    <wsdl:port name="BasicHttpBinding_ICutterService" binding="tns:BasicHttpBinding_ICutterService">
+      <soap:address location="http://localhost:8088/CutterService" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

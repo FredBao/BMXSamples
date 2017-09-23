@@ -1,0 +1,5 @@
+D:\学习\BMXSamples\M2MQTTSample\bin\Debug\M2Mqtt.dll
+D:\学习\BMXSamples\M2MQTTSample\bin\Debug\M2Mqtt.pdb
+D:\学习\BMXSamples\M2MQTTSample\obj\Debug\M2Mqtt.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\M2MQTTSample\obj\Debug\M2Mqtt.dll
+D:\学习\BMXSamples\M2MQTTSample\obj\Debug\M2Mqtt.pdb

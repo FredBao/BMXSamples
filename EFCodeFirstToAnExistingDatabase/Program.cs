@@ -17,11 +17,11 @@
 
             bootstrapper.Initialize();
 
-            bootstrapper.IocManager.RegisterAssemblyByConvention(Assembly.GetExecutingAssembly(), false, new EfConventionalRegistrar(), new MongoConventionalRegistrar());
-            
-            bootstrapper.IocManager.IocContainer.Register(Component.For(typeof(AppService)).Named("AppService2"));
+            bootstrapper.IocManager.RegisterAssemblyByConvention(Assembly.GetExecutingAssembly(), false, new EfConventionalRegistrar(), new MongoConventionalRegistrar(), new AppConventionalRegistrar());
 
-            var appService = bootstrapper.IocManager.IocContainer.Resolve<AppService>("AppService2");
+            // bootstrapper.IocManager.IocContainer.Register(Component.For(typeof(AppService)).Named("AppService2"));
+
+            var appService = bootstrapper.IocManager.IocContainer.Resolve<IAppService>();
 
             Console.WriteLine(appService.Count());
 

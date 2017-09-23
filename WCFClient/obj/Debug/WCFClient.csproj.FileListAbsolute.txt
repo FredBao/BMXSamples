@@ -1,0 +1,6 @@
+D:\学习\BMXSamples\WCFClient\bin\Debug\WCFClient.exe.config
+D:\学习\BMXSamples\WCFClient\bin\Debug\WCFClient.exe
+D:\学习\BMXSamples\WCFClient\bin\Debug\WCFClient.pdb
+D:\学习\BMXSamples\WCFClient\obj\Debug\WCFClient.exe
+D:\学习\BMXSamples\WCFClient\obj\Debug\WCFClient.pdb
+D:\学习\BMXSamples\WCFClient\obj\Debug\WCFClient.csprojResolveAssemblyReference.cache

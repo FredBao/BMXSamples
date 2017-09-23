@@ -172,3 +172,4 @@ D:\学习\BMXSamples\Sample_AntiForgeryToken\bin\zh-Hans\Microsoft.Owin.Security
 D:\学习\BMXSamples\Sample_AntiForgeryToken\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
 D:\学习\BMXSamples\Sample_AntiForgeryToken\obj\Debug\Sample_AntiForgeryToken.dll
 D:\学习\BMXSamples\Sample_AntiForgeryToken\obj\Debug\Sample_AntiForgeryToken.pdb
+D:\学习\BMXSamples\Sample_AntiForgeryToken\obj\Debug\Sample_AntiForgeryToken.csprojResolveAssemblyReference.cache

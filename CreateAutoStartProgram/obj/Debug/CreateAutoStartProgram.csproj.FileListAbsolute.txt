@@ -1,0 +1,9 @@
+D:\学习\BMXSamples\CreateAutoStartProgram\bin\Debug\CreateAutoStartProgram.exe.config
+D:\学习\BMXSamples\CreateAutoStartProgram\bin\Debug\CreateAutoStartProgram.exe
+D:\学习\BMXSamples\CreateAutoStartProgram\bin\Debug\CreateAutoStartProgram.pdb
+D:\学习\BMXSamples\CreateAutoStartProgram\obj\Debug\CreateAutoStartProgram.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\CreateAutoStartProgram\obj\Debug\CreateAutoStartProgram.Form1.resources
+D:\学习\BMXSamples\CreateAutoStartProgram\obj\Debug\CreateAutoStartProgram.Properties.Resources.resources
+D:\学习\BMXSamples\CreateAutoStartProgram\obj\Debug\CreateAutoStartProgram.csproj.GenerateResource.Cache
+D:\学习\BMXSamples\CreateAutoStartProgram\obj\Debug\CreateAutoStartProgram.exe
+D:\学习\BMXSamples\CreateAutoStartProgram\obj\Debug\CreateAutoStartProgram.pdb

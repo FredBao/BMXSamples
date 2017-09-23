@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="cca8cb22-4486-465b-bc5f-163ffe7e723a" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8088/CutterService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CutterService.wsdl" MetadataType="Wsdl" ID="6058d626-0c99-4615-9067-be3e16808e73" SourceId="1" SourceUrl="http://localhost:8088/CutterService?wsdl" />
+    <MetadataFile FileName="CutterService.xsd" MetadataType="Schema" ID="13c2424e-33ae-44b2-a6fc-ff6fe326e348" SourceId="1" SourceUrl="http://localhost:8088/CutterService?xsd=xsd3" />
+    <MetadataFile FileName="CutterService.disco" MetadataType="Disco" ID="35e488ff-da5d-4890-9feb-25d5733821f9" SourceId="1" SourceUrl="http://localhost:8088/CutterService?disco" />
+    <MetadataFile FileName="CutterService1.xsd" MetadataType="Schema" ID="cd3d8d5d-914b-4bbd-9682-4af8b3acf546" SourceId="1" SourceUrl="http://localhost:8088/CutterService?xsd=xsd1" />
+    <MetadataFile FileName="CutterService2.xsd" MetadataType="Schema" ID="72f2b2b2-bf4a-4233-9950-d82390dec9d7" SourceId="1" SourceUrl="http://localhost:8088/CutterService?xsd=xsd2" />
+    <MetadataFile FileName="CutterService3.xsd" MetadataType="Schema" ID="cbe559b7-bd01-4d02-9cbe-46d44f89be0f" SourceId="1" SourceUrl="http://localhost:8088/CutterService?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -46,5 +46,19 @@
             @:网站公告:<input type="text" name="Notice" id="Notice"/>
             <input type="submit" value="Submit"/>
         }
+        
+        @using (Html.BeginForm("Text2", "Home", FormMethod.Post))
+        {
+            @Html.AntiForgeryToken()
+            @:网站公告:<input type="text" name="Notice" id="Notice"/>
+            <input type="submit" value="Submit"/>
+        }
+        
+        @using (Html.BeginForm("Text3", "Home", FormMethod.Post))
+        {
+            @Html.AntiForgeryToken()
+            @:网站公告:<input type="text" name="Notice" id="Notice"/>
+            <input type="submit" value="Submit"/>
+        }
     </div>
 </div>

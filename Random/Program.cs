@@ -1,68 +1,46 @@
 ﻿namespace Random
 {
     using System;
-    using System.Linq;
 
-    using FanucToolManageDll;
+    using ServiceReference1;
 
-    class Program
+    public class Program
     {
 
         static void Main(string[] args)
         {
-            //var test=new Test();
-
-            //test.TestMethod();
-
-            //test.TestMethod2("Fred");
-
-            //var visualValue = Convert.ToUInt16(170);
-
-            //var bitArray = Convert.ToString(visualValue, 2).PadLeft(8, '0').Reverse().ToArray();
-
-            //for (var i = 0; i < bitArray.Length; ++i)
-            //{
-            //    Console.Write(bitArray[i]);  
-            //}
-
-            //Console.ReadKey();
-
             try
             {
-                var ftm = new FanucToolManageDll(50);
+                //CutterServiceClient client = new CutterServiceClient();
 
-                uint cutterCompensationMax;
-
-                if (ftm.GetThresholdValue2(out cutterCompensationMax))
-                {
-                    Console.WriteLine($"输入最大上限{cutterCompensationMax},成功");
-                }
-                else
-                {
-                    Console.WriteLine($"输入最大上限{cutterCompensationMax},失败");
-                }
-
-                //if (ftm.Connect("10.10.100.39", 8193, 3000))
-                //{
-                //    Console.WriteLine("Connected!");
-
-
-                //    if (ftm.GetThresholdValue(5013, out cutterCompensationMax))
+                //var cutterLifeListOfLeft = client.GetAllToolLifeInfo_T(
+                //    new ConnectedInfo()
                 //    {
-                //        Console.WriteLine($"输入最大上限{cutterCompensationMax}");
-                //    }
-                //}
-                //else
+                //        IP = "10.10.100.39",
+                //        Port = 8193,
+                //        TimeOut = 3000,
+                //        MachineSystemType = 2,
+                //        CutterCompensationSide = 1,
+                //        FanucCutterStartIndex = 1,
+                //        FanucCutterCompensationArrayLength = 50,
+                //        FanucCutterCompensationAddress = 5013
+                //    });
+
+                //foreach (var item in cutterLifeListOfLeft)
                 //{
-                //    Console.WriteLine("Connect Failed!");
+                //    Console.WriteLine($"nToolNum:{item.nToolNum} nLife:{item.nLife} nUsed:{item.nUsed}");
                 //}
 
-                ftm.Disconnect();
+                Type type = Type.GetTypeFromProgID("SAPI.SpVoice");
+
+                dynamic spVoice = Activator.CreateInstance(type);
+
+                spVoice.Speak("吃饭了,韩潇!");
+                spVoice.Speak("韩潇!机床OP01有报警,赶紧飞过去看看!");
             }
             catch (Exception e)
             {
                 Console.WriteLine(e);
-                throw;
             }
 
             Console.ReadKey();
