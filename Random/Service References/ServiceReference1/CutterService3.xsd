@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:8088/CutterService?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/WIMI.BTL.CutterService.Cutter.Dto" />
+  <xs:import schemaLocation="http://localhost:8088/CutterService?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/FanucToolManageDll" />
+  <xs:element name="GetThresholdValue">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/WIMI.BTL.CutterService.Cutter.Dto" minOccurs="0" name="input" nillable="true" type="q1:ConnectedInfo" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetThresholdValueResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="GetThresholdValueResult" type="xs:unsignedInt" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetThresholdValue2">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="value" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetThresholdValue2Response">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="GetThresholdValue2Result" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetThresholdValue3">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/WIMI.BTL.CutterService.Cutter.Dto" minOccurs="0" name="input" nillable="true" type="q2:ConnectedInfo" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetThresholdValue3Response">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="GetThresholdValue3Result" type="xs:unsignedInt" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetCutterCompensationData">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/WIMI.BTL.CutterService.Cutter.Dto" minOccurs="0" name="input" nillable="true" type="q3:ConnectedInfo" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetCutterCompensationDataResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/FanucToolManageDll" minOccurs="0" name="GetCutterCompensationDataResult" nillable="true" type="q4:ArrayOfFanucToolManageDll.TOOL_OFFSET" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="UpdateCutterCompensation">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/WIMI.BTL.CutterService.Cutter.Dto" minOccurs="0" name="input" nillable="true" type="q5:ConnectedInfo" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="UpdateCutterCompensationResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="UpdateCutterCompensationResult" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetAllToolLifeInfo_T">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q6="http://schemas.datacontract.org/2004/07/WIMI.BTL.CutterService.Cutter.Dto" minOccurs="0" name="input" nillable="true" type="q6:ConnectedInfo" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetAllToolLifeInfo_TResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q7="http://schemas.datacontract.org/2004/07/FanucToolManageDll" minOccurs="0" name="GetAllToolLifeInfo_TResult" nillable="true" type="q7:ArrayOfFanucToolManageDll.TOOL_LIFE" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

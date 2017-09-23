@@ -17,7 +17,7 @@
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            this.Logger.Info("OnModelCreating() Done.");
+            // this.Logger.Info("OnModelCreating() Done.");
         }
     }
 }

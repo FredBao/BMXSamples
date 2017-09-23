@@ -1,0 +1,9 @@
+D:\学习\BMXSamples\WCFSelfHostServer\bin\Debug\WCFSelfHostServer.exe.config
+D:\学习\BMXSamples\WCFSelfHostServer\bin\Debug\WCFSelfHostServer.exe
+D:\学习\BMXSamples\WCFSelfHostServer\bin\Debug\WCFSelfHostServer.pdb
+D:\学习\BMXSamples\WCFSelfHostServer\bin\Debug\Sample_WcfServiceLibrary.dll
+D:\学习\BMXSamples\WCFSelfHostServer\bin\Debug\Sample_WcfServiceLibrary.pdb
+D:\学习\BMXSamples\WCFSelfHostServer\obj\Debug\WCFSelfHostServer.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\WCFSelfHostServer\obj\Debug\WCFSelfHostServer.exe
+D:\学习\BMXSamples\WCFSelfHostServer\obj\Debug\WCFSelfHostServer.pdb
+D:\学习\BMXSamples\WCFSelfHostServer\bin\Debug\FanucToolManageDll.dll

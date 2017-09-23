@@ -4,6 +4,9 @@
     using System.Collections.Generic;
     using System.Data;
     using System.Data.SqlClient;
+    using System.Linq;
+
+    using Dapper;
 
     public class Machine
     {
@@ -48,85 +51,117 @@
 
         static void Main(string[] args)
         {
-            var dt = new DataTable("State");
-            dt.Columns.Add("TenantId", typeof(int));
-            dt.Columns.Add("MachineId", typeof(long));
-            dt.Columns.Add("MachineCode", typeof(string));
-            dt.Columns.Add("Code", typeof(string));
-            dt.Columns.Add("Name", typeof(string));
-            dt.Columns.Add("StartTime", typeof(DateTime));
-            dt.Columns.Add("EndTime", typeof(DateTime));
-            dt.Columns.Add("Duration", typeof(decimal));
-            dt.Columns.Add("Memo", typeof(string));
+            //var dt = new DataTable("State");
+            //dt.Columns.Add("TenantId", typeof(int));
+            //dt.Columns.Add("MachineId", typeof(long));
+            //dt.Columns.Add("MachineCode", typeof(string));
+            //dt.Columns.Add("Code", typeof(string));
+            //dt.Columns.Add("Name", typeof(string));
+            //dt.Columns.Add("StartTime", typeof(DateTime));
+            //dt.Columns.Add("EndTime", typeof(DateTime));
+            //dt.Columns.Add("Duration", typeof(decimal));
+            //dt.Columns.Add("Memo", typeof(string));
 
-            var startTime = new DateTime(2016, 12, 8, 0, 0, 0);
-            var endTime = new DateTime(2016, 12, 8, 9, 05, 24); // 2016-12-08 09:08:23.000
-            long tick = DateTime.Now.Ticks;
-            Random ran = new Random((int)(tick & 0xffffffffL) | (int)(tick >> 32));
-            var code = ran.Next(1, 4);
-            for (var i = startTime; i < endTime; i = i.AddMinutes(code * 10))
-            {
-                var row = dt.NewRow();
-                row["TenantId"] = 5;
-                row["MachineId"] = 113;
-                row["MachineCode"] = "a29ed053a2f04fc1a0835cd9e0e3e873";
-                row["Code"] = ran.Next(1, 4);
-                row["Name"] = GetStateNameByCode(row["Code"].ToString());
-                row["StartTime"] = i;
-                row["EndTime"] = i.AddMinutes(code * 10);
-                row["Duration"] = 60 * code * 10;
-                row["Memo"] = string.Empty;
-                dt.Rows.Add(row);
-            }
+            //var startTime = new DateTime(2016, 12, 8, 0, 0, 0);
+            //var endTime = new DateTime(2016, 12, 8, 9, 05, 24); // 2016-12-08 09:08:23.000
+            //long tick = DateTime.Now.Ticks;
+            //Random ran = new Random((int)(tick & 0xffffffffL) | (int)(tick >> 32));
+            //var code = ran.Next(1, 4);
+            //for (var i = startTime; i < endTime; i = i.AddMinutes(code * 10))
+            //{
+            //    var row = dt.NewRow();
+            //    row["TenantId"] = 5;
+            //    row["MachineId"] = 113;
+            //    row["MachineCode"] = "a29ed053a2f04fc1a0835cd9e0e3e873";
+            //    row["Code"] = ran.Next(1, 4);
+            //    row["Name"] = GetStateNameByCode(row["Code"].ToString());
+            //    row["StartTime"] = i;
+            //    row["EndTime"] = i.AddMinutes(code * 10);
+            //    row["Duration"] = 60 * code * 10;
+            //    row["Memo"] = string.Empty;
+            //    dt.Rows.Add(row);
+            //}
 
-            // 7.把数据搬运到SQL Server中
-            List<SqlBulkCopyColumnMapping> ColumnMappings = new List<SqlBulkCopyColumnMapping>();
-            SqlBulkCopyColumnMapping TenantId = new SqlBulkCopyColumnMapping("TenantId", "TenantId");
-            ColumnMappings.Add(TenantId);
-            SqlBulkCopyColumnMapping MachineId = new SqlBulkCopyColumnMapping("MachineId", "MachineId");
-            ColumnMappings.Add(MachineId);
-            SqlBulkCopyColumnMapping MachineCode = new SqlBulkCopyColumnMapping("MachineCode", "MachineCode");
-            ColumnMappings.Add(MachineCode);
-            SqlBulkCopyColumnMapping Code = new SqlBulkCopyColumnMapping("Code", "Code");
-            ColumnMappings.Add(Code);
-            SqlBulkCopyColumnMapping Name = new SqlBulkCopyColumnMapping("Name", "Name");
-            ColumnMappings.Add(Name);
-            SqlBulkCopyColumnMapping StartTime = new SqlBulkCopyColumnMapping("StartTime", "StartTime");
-            ColumnMappings.Add(StartTime);
-            SqlBulkCopyColumnMapping EndTime = new SqlBulkCopyColumnMapping("EndTime", "EndTime");
-            ColumnMappings.Add(EndTime);
-            SqlBulkCopyColumnMapping Duration = new SqlBulkCopyColumnMapping("Duration", "Duration");
-            ColumnMappings.Add(Duration);
-            SqlBulkCopyColumnMapping Memo = new SqlBulkCopyColumnMapping("Memo", "Memo");
-            ColumnMappings.Add(Memo);
+            //// 7.把数据搬运到SQL Server中
+            //List<SqlBulkCopyColumnMapping> ColumnMappings = new List<SqlBulkCopyColumnMapping>();
+            //SqlBulkCopyColumnMapping TenantId = new SqlBulkCopyColumnMapping("TenantId", "TenantId");
+            //ColumnMappings.Add(TenantId);
+            //SqlBulkCopyColumnMapping MachineId = new SqlBulkCopyColumnMapping("MachineId", "MachineId");
+            //ColumnMappings.Add(MachineId);
+            //SqlBulkCopyColumnMapping MachineCode = new SqlBulkCopyColumnMapping("MachineCode", "MachineCode");
+            //ColumnMappings.Add(MachineCode);
+            //SqlBulkCopyColumnMapping Code = new SqlBulkCopyColumnMapping("Code", "Code");
+            //ColumnMappings.Add(Code);
+            //SqlBulkCopyColumnMapping Name = new SqlBulkCopyColumnMapping("Name", "Name");
+            //ColumnMappings.Add(Name);
+            //SqlBulkCopyColumnMapping StartTime = new SqlBulkCopyColumnMapping("StartTime", "StartTime");
+            //ColumnMappings.Add(StartTime);
+            //SqlBulkCopyColumnMapping EndTime = new SqlBulkCopyColumnMapping("EndTime", "EndTime");
+            //ColumnMappings.Add(EndTime);
+            //SqlBulkCopyColumnMapping Duration = new SqlBulkCopyColumnMapping("Duration", "Duration");
+            //ColumnMappings.Add(Duration);
+            //SqlBulkCopyColumnMapping Memo = new SqlBulkCopyColumnMapping("Memo", "Memo");
+            //ColumnMappings.Add(Memo);
 
-            using (SqlConnection conn = new SqlConnection(
-                @"Server=114.55.172.95; Database=WIMICloud;User Id=sa; Password=aRRUf2W9XwUeTiVkIPFsGmu3IuPULKgE;pooling=true;connection lifetime=0;min pool size = 1;max pool size=512")
+            //using (SqlConnection conn = new SqlConnection(
+            //    @"Server=114.55.172.95; Database=WIMICloud;User Id=sa; Password=aRRUf2W9XwUeTiVkIPFsGmu3IuPULKgE;pooling=true;connection lifetime=0;min pool size = 1;max pool size=512")
+            //)
+            //{
+            //    conn.Open();
+            //    using (SqlTransaction transaction = conn.BeginTransaction())
+            //    {
+            //        using (SqlBulkCopy bulkCopy = new SqlBulkCopy(conn, SqlBulkCopyOptions.KeepIdentity, transaction))
+            //        {
+            //            bulkCopy.DestinationTableName = "State";
+            //            foreach (var item in ColumnMappings)
+            //            {
+            //                bulkCopy.ColumnMappings.Add(item);
+            //            }
+
+            //            try
+            //            {
+            //                bulkCopy.WriteToServer(dt);
+            //                transaction.Commit();
+            //            }
+            //            catch (Exception ex)
+            //            {
+            //                transaction.Rollback();
+            //            }
+            //        }
+            //    }
+            //}
+
+            using (SqlConnection conn = new SqlConnection(@"Data Source=.;Initial Catalog=ZXRG;user id=sa;password=P@ssw0rd;MultipleActiveResultSets=True;Connect Timeout=120;persist security info=True;")
             )
             {
                 conn.Open();
-                using (SqlTransaction transaction = conn.BeginTransaction())
-                {
-                    using (SqlBulkCopy bulkCopy = new SqlBulkCopy(conn, SqlBulkCopyOptions.KeepIdentity, transaction))
-                    {
-                        bulkCopy.DestinationTableName = "State";
-                        foreach (var item in ColumnMappings)
-                        {
-                            bulkCopy.ColumnMappings.Add(item);
-                        }
 
-                        try
-                        {
-                            bulkCopy.WriteToServer(dt);
-                            transaction.Commit();
-                        }
-                        catch (Exception ex)
-                        {
-                            transaction.Rollback();
-                        }
-                    }
+                string sql = "select IP, CutterCompensationSide, CutterTValue from CutterLifes where IP = '127.0.0.1' and CutterCompensationSide = 1 and CutterTValue = 1";
+
+                if (conn.Query(sql).Count() == 0)
+                {
+                    sql =
+                        "insert into CutterLifes(IP, MachineSystemType, CutterCompensationSide, CutterTValue,OriginalLife,UsedLife,IsDeleted,CreationTime) values"
+                        + "('127.0.0.1',1,1,1,1,1,0, getdate())";
                 }
+                else
+                {
+                    sql = "update CutterLifes set IP='127.0.0.2'," +
+                                       "MachineSystemType=1," +
+                                       "CutterCompensationSide=1," +
+                                       "CutterTValue=1," +
+                                       "OriginalLife=1," +
+                                       "UsedLife=1," +
+                                       "CreationTime = getdate() " +
+                                       "where IP = '127.0.0.1' and CutterCompensationSide = 1 and CutterTValue = 1";
+                }
+
+                conn.Execute(sql);
             }
         }
+    }
+
+    internal class DBHelper
+    {
     }
 }

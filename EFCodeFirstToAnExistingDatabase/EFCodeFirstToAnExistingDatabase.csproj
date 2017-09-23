@@ -81,6 +81,7 @@
   <ItemGroup>
     <Compile Include="Alarm.cs" />
     <Compile Include="AppService.cs" />
+    <Compile Include="IAppService.cs" />
     <Compile Include="Parameter.cs" />
     <Compile Include="PartsOnlineRecord.cs" />
     <Compile Include="Program.cs" />

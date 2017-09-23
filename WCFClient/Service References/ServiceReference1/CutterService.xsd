@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/FanucToolManageDll" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/FanucToolManageDll" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:8088/CutterService?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+  <xs:complexType name="ArrayOfFanucToolManageDll.TOOL_OFFSET">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="FanucToolManageDll.TOOL_OFFSET" type="tns:FanucToolManageDll.TOOL_OFFSET" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfFanucToolManageDll.TOOL_OFFSET" nillable="true" type="tns:ArrayOfFanucToolManageDll.TOOL_OFFSET" />
+  <xs:complexType name="FanucToolManageDll.TOOL_OFFSET">
+    <xs:annotation>
+      <xs:appinfo>
+        <IsValueType xmlns="http://schemas.microsoft.com/2003/10/Serialization/">true</IsValueType>
+      </xs:appinfo>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element minOccurs="0" name="nR" type="xs:int" />
+      <xs:element minOccurs="0" name="nT" type="xs:int" />
+      <xs:element minOccurs="0" name="nToolNum" type="xs:int" />
+      <xs:element minOccurs="0" name="nX" type="xs:int" />
+      <xs:element minOccurs="0" name="nY" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="FanucToolManageDll.TOOL_OFFSET" nillable="true" type="tns:FanucToolManageDll.TOOL_OFFSET" />
+  <xs:complexType name="ArrayOfFanucToolManageDll.TOOL_LIFE">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="FanucToolManageDll.TOOL_LIFE" type="tns:FanucToolManageDll.TOOL_LIFE" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfFanucToolManageDll.TOOL_LIFE" nillable="true" type="tns:ArrayOfFanucToolManageDll.TOOL_LIFE" />
+  <xs:complexType name="FanucToolManageDll.TOOL_LIFE">
+    <xs:annotation>
+      <xs:appinfo>
+        <IsValueType xmlns="http://schemas.microsoft.com/2003/10/Serialization/">true</IsValueType>
+      </xs:appinfo>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element minOccurs="0" name="nLife" type="xs:int" />
+      <xs:element minOccurs="0" name="nToolNum" type="xs:int" />
+      <xs:element minOccurs="0" name="nUsed" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="FanucToolManageDll.TOOL_LIFE" nillable="true" type="tns:FanucToolManageDll.TOOL_LIFE" />
+</xs:schema>

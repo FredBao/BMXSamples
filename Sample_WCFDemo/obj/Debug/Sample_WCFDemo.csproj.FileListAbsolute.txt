@@ -1,0 +1,6 @@
+D:\学习\BMXSamples\Sample_WCFDemo\bin\Sample_WCFDemo.dll.config
+D:\学习\BMXSamples\Sample_WCFDemo\bin\Sample_WCFDemo.dll
+D:\学习\BMXSamples\Sample_WCFDemo\bin\Sample_WCFDemo.pdb
+D:\学习\BMXSamples\Sample_WCFDemo\obj\Debug\Sample_WCFDemo.dll
+D:\学习\BMXSamples\Sample_WCFDemo\obj\Debug\Sample_WCFDemo.pdb
+D:\学习\BMXSamples\Sample_WCFDemo\obj\Debug\Sample_WCFDemo.csprojResolveAssemblyReference.cache

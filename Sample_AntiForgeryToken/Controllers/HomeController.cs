@@ -1,10 +1,9 @@
 ﻿namespace Sample_AntiForgeryToken.Controllers
 {
     using System;
-    using System.Runtime.InteropServices;
     using System.Web.Mvc;
 
-    using FanucToolManageDll;
+    using ServiceReference1;
 
     public class HomeController : Controller
     {
@@ -30,24 +29,81 @@
 
         [HttpPost]
         [ValidateAntiForgeryToken]
+        public ActionResult Text2(string notice)
+        {
+            try
+            {
+                CutterServiceClient client = new CutterServiceClient();
+
+                notice += client.GetThresholdValue2(111);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                throw;
+            }
+
+            this.ViewBag.Notice = notice;
+
+            return this.View("Contact");
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult Text(string notice)
         {
             try
             {
-                var ftm = new FanucToolManageDll(50);
+                CutterServiceClient client = new CutterServiceClient();
 
-                uint cutterCompensationMax;
+                uint cutterCompensationMax = client.GetThresholdValue(
+                    new ConnectedInfo()
+                    {
+                        IP = "10.10.100.39",
+                        Port = 8193,
+                        TimeOut = 3000,
+                        MachineSystemType = 1,
+                        CutterCompensationSide = 1,
+                        FanucCutterCompensationArrayLength = 50,
+                        FanucCutterCompensationAddress = 5013,
 
-                if (ftm.GetThresholdValue2(out cutterCompensationMax))
-                {
-                    notice = $"输入最大上限{cutterCompensationMax},成功";
-                }
-                else
-                {
-                    notice = $"输入最大上限{cutterCompensationMax},失败";
-                }
+                    });
 
-                ftm.Disconnect();
+                notice += cutterCompensationMax;
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                throw;
+            }
+
+            this.ViewBag.Notice = notice;
+
+            return this.View("Contact");
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Text3(string notice)
+        {
+            try
+            {
+                CutterServiceClient client = new CutterServiceClient();
+
+                uint cutterCompensationMax = client.GetThresholdValue3(
+                    new ConnectedInfo()
+                    {
+                        IP = "10.10.100.39",
+                        Port = 8193,
+                        TimeOut = 3000,
+                        MachineSystemType = 1,
+                        CutterCompensationSide = 1,
+                        FanucCutterCompensationArrayLength = 50,
+                        FanucCutterCompensationAddress = 5013,
+
+                    });
+
+                notice += cutterCompensationMax;
             }
             catch (Exception e)
             {

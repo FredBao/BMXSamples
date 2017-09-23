@@ -1,0 +1,7 @@
+D:\学习\BMXSamples\Sample_WcfServiceLibrary\bin\Debug\Sample_WcfServiceLibrary.dll.config
+D:\学习\BMXSamples\Sample_WcfServiceLibrary\bin\Debug\Sample_WcfServiceLibrary.dll
+D:\学习\BMXSamples\Sample_WcfServiceLibrary\bin\Debug\Sample_WcfServiceLibrary.pdb
+D:\学习\BMXSamples\Sample_WcfServiceLibrary\obj\Debug\Sample_WcfServiceLibrary.dll
+D:\学习\BMXSamples\Sample_WcfServiceLibrary\obj\Debug\Sample_WcfServiceLibrary.pdb
+D:\学习\BMXSamples\Sample_WcfServiceLibrary\bin\Debug\FanucToolManageDll.dll
+D:\学习\BMXSamples\Sample_WcfServiceLibrary\obj\Debug\Sample_WcfServiceLibrary.csprojResolveAssemblyReference.cache

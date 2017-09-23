@@ -3,11 +3,12 @@
     using System.Collections.Generic;
 
     using Bmx.Abp.Domain.Repositories;
+    using Bmx.Abp.Infrastructure;
     using Bmx.Abp.MongoDb;
     using MongoDB.Bson;
     using MongoDB.Driver;
 
-    public class AppService
+    public class AppService : IAppService, IApplicationService
     {
         private readonly IRepository<PartsOnlineRecord> repository;
 

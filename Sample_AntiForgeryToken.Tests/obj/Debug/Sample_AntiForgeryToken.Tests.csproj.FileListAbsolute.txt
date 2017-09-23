@@ -139,4 +139,3 @@ D:\学习\BMXSamples\Sample_AntiForgeryToken.Tests\obj\Debug\Sample_AntiForgeryT
 D:\学习\BMXSamples\Sample_AntiForgeryToken.Tests\obj\Debug\Sample_AntiForgeryToken.Tests.dll
 D:\学习\BMXSamples\Sample_AntiForgeryToken.Tests\obj\Debug\Sample_AntiForgeryToken.Tests.pdb
 D:\学习\BMXSamples\Sample_AntiForgeryToken.Tests\bin\Debug\FanucToolManageDll.dll
-D:\学习\BMXSamples\Sample_AntiForgeryToken.Tests\bin\Debug\FanucToolManageDll.pdb
