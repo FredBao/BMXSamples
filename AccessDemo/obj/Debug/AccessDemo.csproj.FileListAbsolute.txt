@@ -1,0 +1,9 @@
+D:\学习\BMXSamples\AccessDemo\bin\Debug\AccessDemo.exe.config
+D:\学习\BMXSamples\AccessDemo\bin\Debug\AccessDemo.exe
+D:\学习\BMXSamples\AccessDemo\bin\Debug\AccessDemo.pdb
+D:\学习\BMXSamples\AccessDemo\bin\Debug\Dapper.dll
+D:\学习\BMXSamples\AccessDemo\bin\Debug\Dapper.xml
+D:\学习\BMXSamples\AccessDemo\obj\Debug\AccessDemo.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\AccessDemo\obj\Debug\AccessDemo.csproj.CoreCompileInputs.cache
+D:\学习\BMXSamples\AccessDemo\obj\Debug\AccessDemo.exe
+D:\学习\BMXSamples\AccessDemo\obj\Debug\AccessDemo.pdb
