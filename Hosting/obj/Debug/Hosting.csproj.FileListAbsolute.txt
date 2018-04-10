@@ -1,0 +1,11 @@
+D:\学习\BMXSamples\Hosting\bin\Debug\Hosting.exe.config
+D:\学习\BMXSamples\Hosting\bin\Debug\Hosting.exe
+D:\学习\BMXSamples\Hosting\bin\Debug\Hosting.pdb
+D:\学习\BMXSamples\Hosting\bin\Debug\Contracts.dll
+D:\学习\BMXSamples\Hosting\bin\Debug\Services.dll
+D:\学习\BMXSamples\Hosting\bin\Debug\Contracts.pdb
+D:\学习\BMXSamples\Hosting\bin\Debug\Services.pdb
+D:\学习\BMXSamples\Hosting\obj\Debug\Hosting.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\Hosting\obj\Debug\Hosting.csproj.CoreCompileInputs.cache
+D:\学习\BMXSamples\Hosting\obj\Debug\Hosting.exe
+D:\学习\BMXSamples\Hosting\obj\Debug\Hosting.pdb

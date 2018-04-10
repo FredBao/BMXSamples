@@ -1,0 +1,5 @@
+D:\学习\BMXSamples\Contracts\bin\Debug\Contracts.dll
+D:\学习\BMXSamples\Contracts\bin\Debug\Contracts.pdb
+D:\学习\BMXSamples\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+D:\学习\BMXSamples\Contracts\obj\Debug\Contracts.dll
+D:\学习\BMXSamples\Contracts\obj\Debug\Contracts.pdb

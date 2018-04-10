@@ -150,6 +150,16 @@
                 this.cb_FontSize.Items.Add(i);
             }
         }
+
+        private void connectionNameControl1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void providerChooser1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 
     public class Item

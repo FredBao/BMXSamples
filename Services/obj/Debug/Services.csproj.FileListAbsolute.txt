@@ -1,0 +1,8 @@
+D:\学习\BMXSamples\Services\bin\Debug\Services.dll
+D:\学习\BMXSamples\Services\bin\Debug\Services.pdb
+D:\学习\BMXSamples\Services\bin\Debug\Contracts.dll
+D:\学习\BMXSamples\Services\bin\Debug\Contracts.pdb
+D:\学习\BMXSamples\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+D:\学习\BMXSamples\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\学习\BMXSamples\Services\obj\Debug\Services.dll
+D:\学习\BMXSamples\Services\obj\Debug\Services.pdb

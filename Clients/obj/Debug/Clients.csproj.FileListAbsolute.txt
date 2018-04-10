@@ -1,0 +1,9 @@
+D:\学习\BMXSamples\Clients\bin\Debug\Clients.exe.config
+D:\学习\BMXSamples\Clients\bin\Debug\Clients.exe
+D:\学习\BMXSamples\Clients\bin\Debug\Clients.pdb
+D:\学习\BMXSamples\Clients\bin\Debug\Contracts.dll
+D:\学习\BMXSamples\Clients\bin\Debug\Contracts.pdb
+D:\学习\BMXSamples\Clients\obj\Debug\Clients.csproj.CoreCompileInputs.cache
+D:\学习\BMXSamples\Clients\obj\Debug\Clients.exe
+D:\学习\BMXSamples\Clients\obj\Debug\Clients.pdb
+D:\学习\BMXSamples\Clients\obj\Debug\Clients.csprojResolveAssemblyReference.cache

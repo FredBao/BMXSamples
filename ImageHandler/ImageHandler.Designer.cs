@@ -47,6 +47,9 @@
             this.label1 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.colorDialog1 = new System.Windows.Forms.ColorDialog();
+            this.hierarchyTableAdapter1 = new XtraReportsDemos.TreeView.dsHierarchyTableAdapters.HierarchyTableAdapter();
+            this.connectionNameControl1 = new DevExpress.DataAccess.UI.Native.ConnectionNameControl();
+            this.providerChooser1 = new DevExpress.DataAccess.UI.Native.ProviderChooser();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel3.SuspendLayout();
@@ -56,6 +59,8 @@
             // 
             // panel1
             // 
+            this.panel1.Controls.Add(this.providerChooser1);
+            this.panel1.Controls.Add(this.connectionNameControl1);
             this.panel1.Controls.Add(this.pictureBox1);
             this.panel1.Controls.Add(this.panel3);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -231,6 +236,30 @@
             this.textBox1.TabIndex = 0;
             this.textBox1.Text = "惠山万达艺海琴行杯";
             // 
+            // hierarchyTableAdapter1
+            // 
+            this.hierarchyTableAdapter1.ClearBeforeFill = true;
+            // 
+            // connectionNameControl1
+            // 
+            this.connectionNameControl1.ConnectionName = "";
+            this.connectionNameControl1.IsConnectionNameChanged = false;
+            this.connectionNameControl1.Location = new System.Drawing.Point(212, 197);
+            this.connectionNameControl1.Name = "connectionNameControl1";
+            this.connectionNameControl1.Size = new System.Drawing.Size(401, 29);
+            this.connectionNameControl1.TabIndex = 2;
+            this.connectionNameControl1.Load += new System.EventHandler(this.connectionNameControl1_Load);
+            // 
+            // providerChooser1
+            // 
+            this.providerChooser1.ConnectionNameVisible = true;
+            this.providerChooser1.DataProviderConfigurator = null;
+            this.providerChooser1.Location = new System.Drawing.Point(94, 247);
+            this.providerChooser1.Name = "providerChooser1";
+            this.providerChooser1.Size = new System.Drawing.Size(572, 123);
+            this.providerChooser1.TabIndex = 3;
+            this.providerChooser1.Load += new System.EventHandler(this.providerChooser1_Load);
+            // 
             // ImageHandler
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
@@ -272,6 +301,9 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.NumericUpDown Y_Offset;
         private System.Windows.Forms.NumericUpDown X_Offset;
+        private XtraReportsDemos.TreeView.dsHierarchyTableAdapters.HierarchyTableAdapter hierarchyTableAdapter1;
+        private DevExpress.DataAccess.UI.Native.ConnectionNameControl connectionNameControl1;
+        private DevExpress.DataAccess.UI.Native.ProviderChooser providerChooser1;
     }
 }
 
