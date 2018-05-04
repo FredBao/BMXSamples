@@ -1,0 +1,14 @@
+﻿This is the common header.  
+<#   
+ SpecificFragment1();   
+#>  
+A common central text.  
+<#   
+ SpecificFragment2();   
+#>  
+This is the common footer.  
+<#+   
+ // Declare abstract methods  
+ protected virtual void SpecificFragment1() { }  
+ protected virtual void SpecificFragment2() { }  
+#>  

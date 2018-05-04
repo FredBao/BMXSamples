@@ -22,3 +22,13 @@ D:\学习\BMXSamples\T4GenerateMultiFiles\bin\Debug\Microsoft.VisualStudio.TextT
 D:\学习\BMXSamples\T4GenerateMultiFiles\obj\Debug\T4GenerateMultiFiles.csprojResolveAssemblyReference.cache
 D:\学习\BMXSamples\T4GenerateMultiFiles\obj\Debug\T4GenerateMultiFiles.exe
 D:\学习\BMXSamples\T4GenerateMultiFiles\obj\Debug\T4GenerateMultiFiles.pdb
+D:\学习\Coding\BMXSamples\T4GenerateMultiFiles\bin\Debug\T4GenerateMultiFiles.exe.config
+D:\学习\Coding\BMXSamples\T4GenerateMultiFiles\bin\Debug\T4GenerateMultiFiles.exe
+D:\学习\Coding\BMXSamples\T4GenerateMultiFiles\bin\Debug\T4GenerateMultiFiles.pdb
+D:\学习\Coding\BMXSamples\T4GenerateMultiFiles\bin\Debug\Microsoft.VisualStudio.TextTemplating.10.0.dll
+D:\学习\Coding\BMXSamples\T4GenerateMultiFiles\bin\Debug\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+D:\学习\Coding\BMXSamples\T4GenerateMultiFiles\obj\Debug\T4GenerateMultiFiles.csprojResolveAssemblyReference.cache
+D:\学习\Coding\BMXSamples\T4GenerateMultiFiles\obj\Debug\T4GenerateMultiFiles.csproj.CoreCompileInputs.cache
+D:\学习\Coding\BMXSamples\T4GenerateMultiFiles\obj\Debug\T4GenerateMultiFiles.csproj.CopyComplete
+D:\学习\Coding\BMXSamples\T4GenerateMultiFiles\obj\Debug\T4GenerateMultiFiles.exe
+D:\学习\Coding\BMXSamples\T4GenerateMultiFiles\obj\Debug\T4GenerateMultiFiles.pdb

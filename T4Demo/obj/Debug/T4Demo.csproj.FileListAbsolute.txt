@@ -22,3 +22,13 @@ D:\学习\BMXSamples\T4Demo\bin\Debug\Microsoft.VisualStudio.TextTemplating.Inte
 D:\学习\BMXSamples\T4Demo\obj\Debug\T4Demo.csprojResolveAssemblyReference.cache
 D:\学习\BMXSamples\T4Demo\obj\Debug\T4Demo.exe
 D:\学习\BMXSamples\T4Demo\obj\Debug\T4Demo.pdb
+D:\学习\Coding\BMXSamples\T4Demo\bin\Debug\T4Demo.exe.config
+D:\学习\Coding\BMXSamples\T4Demo\bin\Debug\T4Demo.exe
+D:\学习\Coding\BMXSamples\T4Demo\bin\Debug\T4Demo.pdb
+D:\学习\Coding\BMXSamples\T4Demo\bin\Debug\Microsoft.VisualStudio.TextTemplating.10.0.dll
+D:\学习\Coding\BMXSamples\T4Demo\bin\Debug\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+D:\学习\Coding\BMXSamples\T4Demo\obj\Debug\T4Demo.csprojResolveAssemblyReference.cache
+D:\学习\Coding\BMXSamples\T4Demo\obj\Debug\T4Demo.csproj.CoreCompileInputs.cache
+D:\学习\Coding\BMXSamples\T4Demo\obj\Debug\T4Demo.csproj.CopyComplete
+D:\学习\Coding\BMXSamples\T4Demo\obj\Debug\T4Demo.exe
+D:\学习\Coding\BMXSamples\T4Demo\obj\Debug\T4Demo.pdb

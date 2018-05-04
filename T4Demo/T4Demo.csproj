@@ -53,21 +53,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CustomTextTemplatingEngineHost.cs" />
+    <None Include="DerivedTemplate1.tt">
+      <Generator>TextTemplatingFilePreprocessor</Generator>
+      <LastGenOutput>DerivedTemplate1.cs</LastGenOutput>
+    </None>
+    <Compile Include="BaseTemplate.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BaseTemplate.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DerivedTemplate1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DerivedTemplate1.tt</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="DLL\Microsoft.VisualStudio.TextTemplating.10.0.dll" />
     <Content Include="DLL\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll" />
-    <Content Include="Hello.txt">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Hello.tt</DependentUpon>
-    </Content>
-    <None Include="Hello.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>Hello.txt</LastGenOutput>
+    <None Include="BaseTemplate.tt">
+      <Generator>TextTemplatingFilePreprocessor</Generator>
+      <LastGenOutput>BaseTemplate.cs</LastGenOutput>
     </None>
   </ItemGroup>
   <ItemGroup>

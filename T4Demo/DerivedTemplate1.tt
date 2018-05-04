@@ -1,0 +1,20 @@
+﻿<#@ template language="C#" inherits="BaseTemplate" #>  
+<#   
+ // Run the base template:  
+ base.TransformText();  
+#>  
+<#+  
+// Provide fragments specific to this derived template:  
+protected override void SpecificFragment1()  
+{  
+#>  
+  Fragment 1 for DerivedTemplate1  
+<#+  
+}  
+protected override void SpecificFragment2()  
+{  
+#>  
+  Fragment 2 for DerivedTemplate1  
+<#+  
+}  
+#>  
